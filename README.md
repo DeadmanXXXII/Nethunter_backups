@@ -13,7 +13,7 @@ This script will back up everything, including:
 ---
 
 🔥 Full Backup Script (full_backup.sh)
-```
+```bash
 #!/bin/bash
 
 # Set backup name with date
@@ -71,22 +71,22 @@ echo "✅ Full Backup Completed: $BACKUP_FILE"
 🔥 How to Use the Script
 
 1.
-```
+```bash
 nano full_backup.sh
 ```
 
 3. Give execution permission
-```
+```bash
 chmod +x full_backup.sh
 ```
 
 3. Run it inside Termux
-```
+```bash
 ./full_backup.sh
 ```
 
 4. Backup file created:
-```
+```bash
 mv
 /data/data/com.termux/files/home/termux_nethunter_backup_2025-02-27.tar.gz
 
@@ -104,11 +104,11 @@ backup.tar.gz
 🔥 How to Restore the Backup
 
 To fully restore Termux & NetHunter:
-```
+```bash
 backup_2025-02-27.tar.gz -C /
 ```
 Then, reinstall all packages:
-```
+```bash
 xargs -a termux_packages.txt pkg install -y
 xargs -a nethunter_packages.txt sudo apt install -y
 xargs -a pip_packages.txt pip install
@@ -121,7 +121,7 @@ xargs -a cargo_packages.txt cargo install
 🔥 Upload to GitHub
 
 To store the backup on GitHub:
-```
+```bash
 git init
 git add termux_nethunter_backup_*.tar.gz
 git commit -m "Full backup of Termux & NetHunter"
