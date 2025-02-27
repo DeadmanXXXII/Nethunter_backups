@@ -104,33 +104,33 @@ backup.tar.gz
 🔥 How to Restore the Backup
 
 To fully restore Termux & NetHunter:
-
-tar -xzf termux_nethunter_backup_2025-02-27.tar.gz -C /
-
+```
+backup_2025-02-27.tar.gz -C /
+```
 Then, reinstall all packages:
-
+```
 xargs -a termux_packages.txt pkg install -y
 xargs -a nethunter_packages.txt sudo apt install -y
 xargs -a pip_packages.txt pip install
 xargs -a pipx_packages.txt pipx install
 xargs -a cargo_packages.txt cargo install
-
+```
 
 ---
 
 🔥 Upload to GitHub
 
 To store the backup on GitHub:
-
+```
 git init
 git add termux_nethunter_backup_*.tar.gz
 git commit -m "Full backup of Termux & NetHunter"
 git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
 git push -u origin main
-
+```
 
 ---
 
-Now, you have a complete, restorable backup of everything in Termux + NetHunter!
+Now, you have a complete, restorable backup of everything in Termux + NetHunter the exact set up I have.
 
