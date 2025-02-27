@@ -1,0 +1,2911 @@
+Backup created on: Thu Feb 27 21:08:23 UTC 2025
+
+=== APT Packages ===
+7zip 24.08+dfsg-1 arm64
+abootimg 0.6-1.1+b1 arm64
+accountsservice 23.13.9-7 arm64
+acl 2.3.2-2+b1 arm64
+adduser 3.137 all
+adwaita-icon-theme 47.0-2 all
+aircrack-ng 1:1.7+git20230807.4bf83f1a-2 arm64
+alsa-topology-conf 1.2.5.1-3 all
+alsa-ucm-conf 1.2.12-1 all
+alsa-utils 1.2.12-1+b1 arm64
+amass 4.2.0-0kali1 arm64
+amass-common 4.2.0-0kali1 all
+ant 1.10.15-1 all
+ant-optional 1.10.15-1 all
+antlr 2.7.7+dfsg-14 all
+apache2 2.4.62-3 arm64
+apache2-bin 2.4.62-3 arm64
+apache2-data 2.4.62-3 all
+apache2-utils 2.4.62-3 arm64
+apt 2.9.10+kali1 arm64
+apt-file 3.3 all
+apt-transport-https 2.9.10+kali1 all
+apt-utils 2.9.10+kali1 arm64
+arj 3.10.22-28 arm64
+arjun 2.2.7-1 all
+armitage 20221206-0kali1 all
+aspell 0.60.8.1-1+b2 arm64
+aspell-en 2020.12.07-0-1 all
+at-spi2-common 2.54.0-1 all
+at-spi2-core 2.54.0-1 arm64
+atril 1.26.2-3 arm64
+atril-common 1.26.2-3 all
+autoconf 2.72-3 all
+automake 1:1.16.5-1.3 all
+autossh 1.4g-1+b1 arm64
+autotools-dev 20220109.1 all
+avahi-daemon 0.8-13+b3 arm64
+avahi-utils 0.8-13+b3 arm64
+awscli 2.17.3-1 all
+backdoor-factory 3.4.2+dfsg-5 all
+base-files 1:2024.4.0 arm64
+base-passwd 3.6.5 arm64
+bash 5.2.32-1+b2 arm64
+beef-xss 0.5.4.0+git20220823-0kali3 arm64
+bettercap 2.33.0-1kali1 arm64
+bettercap-caplets 0+git20240106-2kali1 all
+bind9-dnsutils 1:9.19.21-1 arm64
+bind9-host 1:9.19.21-1 arm64
+bind9-libs:arm64 1:9.19.21-1 arm64
+binutils 2.43.1-5 arm64
+binutils-aarch64-linux-gnu 2.43.1-5 arm64
+binutils-arm-none-eabi 2.43.1-5+23+b1 arm64
+binutils-common:arm64 2.43.1-5 arm64
+binutils-mingw-w64-i686 2.43.1-5+12 arm64
+binutils-mingw-w64-x86-64 2.43.1-5+12 arm64
+binwalk 2.4.3+dfsg1-1 all
+blt 2.5.3+dfsg-7+b1 arm64
+blueman 2.4.3-1 arm64
+bluez 5.77-1+kali1 arm64
+bluez-obexd 5.77-1+kali1 arm64
+bnd 5.0.1-5 all
+bsd-mailx 8.1.2-0.20220412cvs-1+b1 arm64
+bsdextrautils 2.40.2-9 arm64
+bsdutils 1:2.40.2-9 arm64
+bubblewrap 0.11.0-1 arm64
+build-essential 12.12 arm64
+bundler 2.4.20-1 all
+burpsuite 2024.9.4-0kali1 arm64
+busybox 1:1.37.0-4 arm64
+bzip2 1.0.8-6 arm64
+bzip2-doc 1.0.8-6 all
+ca-certificates 20240203 all
+ca-certificates-java 20240118 all
+cargo 1.82.0+dfsg1-2 arm64
+catfish 4.16.4-2 all
+cgpt 0~R106-15054.B-2+b2 arm64
+chromium 130.0.6723.91-2 arm64
+chromium-common 130.0.6723.91-2 arm64
+chromium-driver 130.0.6723.91-2 arm64
+chromium-sandbox 130.0.6723.91-2 arm64
+clang-17 1:17.0.6-18 arm64
+clang-19 1:19.1.3-2 arm64
+colord 1.4.7-1+b2 arm64
+colord-data 1.4.7-1 all
+comerr-dev:arm64 2.1-1.47.1-1+b1 arm64
+command-not-found 23.04.0-2+kali1 all
+console-common 0.7.91 all
+console-data 2:1.12-9 all
+coreboot-utils 4.15~dfsg-5 arm64
+coreboot-utils-doc 4.15~dfsg-5 all
+coreutils 9.5-1+b1 arm64
+cpio 2.15+dfsg-2 arm64
+cpp 4:14.2.0-1 arm64
+cpp-13 13.3.0-8 arm64
+cpp-13-aarch64-linux-gnu 13.3.0-8 arm64
+cpp-14 14.2.0-8 arm64
+cpp-14-aarch64-linux-gnu 14.2.0-8 arm64
+cpp-aarch64-linux-gnu 4:14.2.0-1 arm64
+cracklib-runtime 2.9.6-5.1+b3 arm64
+cramfsswap 1.4.4+b1 arm64
+cron 3.0pl1-189+b1 arm64
+cron-daemon-common 3.0pl1-189 all
+cups-pk-helper 0.2.6-2.1 arm64
+curl 8.11.0-1 arm64
+dash 0.5.12-9+b1 arm64
+dbd 1.50-1kali7 arm64
+dbus 1.14.10-6 arm64
+dbus-bin 1.14.10-6 arm64
+dbus-daemon 1.14.10-6 arm64
+dbus-session-bus-common 1.14.10-6 all
+dbus-system-bus-common 1.14.10-6 all
+dbus-user-session 1.14.10-6 arm64
+dbus-x11 1.14.10-6 arm64
+dconf-gsettings-backend:arm64 0.40.0-4+b3 arm64
+dconf-service 0.40.0-4+b3 arm64
+debconf 1.5.87 all
+debconf-i18n 1.5.87 all
+debian-archive-keyring 2023.4 all
+debianutils 5.21 arm64
+default-jre 2:1.21-76 arm64
+default-jre-headless 2:1.21-76 arm64
+default-mysql-server 1.1.1 all
+desktop-base 13.0.0~pre1+kali1 all
+desktop-file-utils 0.27-2+b1 arm64
+dictionaries-common 1.30.1 all
+diffutils 1:3.10-1+b1 arm64
+dirb 2.22+dfsg-5+b2 arm64
+dirmngr 2.2.45-2 arm64
+dirsearch 0.4.3-1 all
+distro-info-data 0.63 all
+dmidecode 3.6-1+b1 arm64
+dmsetup 2:1.02.201-1 arm64
+dns-root-data 2024071800 all
+dnsenum 1.3.2-1 all
+dnsmasq 2.90-4 all
+dnsmasq-base 2.90-4+b1 arm64
+dnsrecon 1.2.0-2 all
+docbook-xml 4.5-13 all
+docutils-common 0.21.2+dfsg-2 all
+dosfstools 4.2-1.1+b1 arm64
+dpkg 1.22.11+kali2 arm64
+dpkg-dev 1.22.11+kali2 all
+dracut-install 103-2 arm64
+dsniff 2.4b1+debian-34 arm64
+e2fsprogs 1.47.1-1+b1 arm64
+easy-rsa 3.2.1-1 all
+eject 2.40.2-9 arm64
+emacsen-common 3.0.5 all
+enchant-2 2.3.3-2+b3 arm64
+engrampa 1.26.2-4+b1 arm64
+engrampa-common 1.26.2-4 all
+ent 1.2debian-3+b1 arm64
+espeak 1.48.15+dfsg-3+b2 arm64
+espeak-data:arm64 1.48.15+dfsg-3+b2 arm64
+espeak-ng-data:arm64 1.51+dfsg-12+b1 arm64
+ethtool 1:6.11-1 arm64
+ettercap-common 1:0.8.3.1-13+b2 arm64
+ettercap-text-only 1:0.8.3.1-13+b2 arm64
+exe2hexbat 1.5.1-0kali2 all
+exfatprogs 1.2.5-2 arm64
+exim4-base 4.98-2 arm64
+exim4-config 4.98-2 all
+exim4-daemon-light 4.98-2 arm64
+exo-utils 4.18.0-1+b3 arm64
+exploitdb 20241002-0kali1 all
+fake-hwclock 0.14 all
+fakeroot 1.36-1 arm64
+fdisk 2.40.2-9 arm64
+ffmpeg 7:7.1-3 arm64
+ffuf 2.1.0-1+b3 arm64
+file 1:5.45-3+b1 arm64
+findutils 4.10.0-3 arm64
+firebird3.0-common 3.0.11.33703.ds4-4 all
+firebird3.0-common-doc 3.0.11.33703.ds4-4 all
+firefox-esr 128.3.1esr-2 arm64
+flashrom 1.4.0-3 arm64
+fontconfig 2.15.0-1.1+b1 arm64
+fontconfig-config 2.15.0-1.1+b1 arm64
+fonts-cantarell 0.303.1-2 all
+fonts-dejavu 2.37-8 all
+fonts-dejavu-core 2.37-8 all
+fonts-dejavu-extra 2.37-8 all
+fonts-dejavu-mono 2.37-8 all
+fonts-droid-fallback 1:8.1.0r7-1~1.gbp36536b all
+fonts-firacode 6.2-2 all
+fonts-font-awesome 5.0.10+really4.7.0~dfsg-4.1 all
+fonts-freefont-ttf 20211204+svn4273-2 all
+fonts-hack 3.003-3 all
+fonts-lato 2.015-1 all
+fonts-liberation 1:2.1.5-3 all
+fonts-liberation-sans-narrow 1:1.07.6-4 all
+fonts-lyx 2.4.2.1-1 all
+fonts-mathjax 2.7.9+dfsg-1 all
+fonts-noto-mono 20201225-2 all
+fonts-quicksand 0.2016-2.1 all
+fonts-urw-base35 20200910-8 all
+foremost 1.5.7-11+b1 arm64
+freetds-common 1.3.17+ds-2 all
+ftp 20230507-2 all
+fuse3 3.14.0-10 arm64
+g++ 4:14.2.0-1 arm64
+g++-13 13.3.0-8 arm64
+g++-13-aarch64-linux-gnu 13.3.0-8 arm64
+g++-14 14.2.0-8 arm64
+g++-14-aarch64-linux-gnu 14.2.0-8 arm64
+g++-aarch64-linux-gnu 4:14.2.0-1 arm64
+galera-4 26.4.20-1 arm64
+gawk 1:5.2.1-2+b2 arm64
+gcc 4:14.2.0-1 arm64
+gcc-13 13.3.0-8 arm64
+gcc-13-aarch64-linux-gnu 13.3.0-8 arm64
+gcc-13-base:arm64 13.3.0-8 arm64
+gcc-14 14.2.0-8 arm64
+gcc-14-aarch64-linux-gnu 14.2.0-8 arm64
+gcc-14-base:arm64 14.2.0-8 arm64
+gcc-aarch64-linux-gnu 4:14.2.0-1 arm64
+gcc-arm-none-eabi 15:13.3.rel1-1 arm64
+gcc-mingw-w64-base:arm64 13.3.0-8+26.5 arm64
+gcc-mingw-w64-i686-win32 13.3.0-8+26.5 arm64
+gcc-mingw-w64-i686-win32-runtime 13.3.0-8+26.5 arm64
+gcc-mingw-w64-x86-64-win32 13.3.0-8+26.5 arm64
+gcc-mingw-w64-x86-64-win32-runtime 13.3.0-8+26.5 arm64
+gcr 3.41.2-1+b2 arm64
+gcr4 4.3.0-1 arm64
+geoip-database 20241014-1 all
+geoipupdate 7.0.1-1 arm64
+ghostscript 10.04.0~dfsg-1 arm64
+gir1.2-atk-1.0:arm64 2.54.0-1 arm64
+gir1.2-atspi-2.0:arm64 2.54.0-1 arm64
+gir1.2-ayatanaappindicator3-0.1 0.5.93+really-1+b1 arm64
+gir1.2-freedesktop:arm64 1.82.0-2 arm64
+gir1.2-gdkpixbuf-2.0:arm64 2.42.12+dfsg-1+b1 arm64
+gir1.2-girepository-2.0:arm64 1.82.0-2 arm64
+gir1.2-glib-2.0:arm64 2.82.2-2 arm64
+gir1.2-gstreamer-1.0:arm64 1.24.9-1 arm64
+gir1.2-gtk-3.0:arm64 3.24.43-4 arm64
+gir1.2-handy-1:arm64 1.8.3-1+b2 arm64
+gir1.2-harfbuzz-0.0:arm64 10.0.1-1 arm64
+gir1.2-nm-1.0:arm64 1.50.0-1 arm64
+gir1.2-notify-0.7:arm64 0.8.3-1+b2 arm64
+gir1.2-packagekitglib-1.0 1.3.0-2 arm64
+gir1.2-pango-1.0:arm64 1.54.0+ds-3 arm64
+gir1.2-polkit-1.0 125-2+kali1 arm64
+gir1.2-secret-1:arm64 0.21.4-3 arm64
+gir1.2-wnck-3.0:arm64 43.1-1 arm64
+gir1.2-xfconf-0:arm64 4.18.3-2 arm64
+git 1:2.45.2-1 arm64
+git-man 1:2.45.2-1 all
+glib-networking:arm64 2.80.0-1 arm64
+glib-networking-common 2.80.0-1 all
+glib-networking-services 2.80.0-1 arm64
+gnome-accessibility-themes 3.28-3 all
+gnome-disk-utility 46.1-1 arm64
+gnome-icon-theme 3.12.0-5 all
+gnome-keyring 46.2-1 arm64
+gnome-keyring-pkcs11:arm64 46.2-1 arm64
+gnome-system-tools 3.0.0-11 arm64
+gnome-themes-extra:arm64 3.28-3 arm64
+gnome-themes-extra-data 3.28-3 all
+gnupg 2.2.45-2 all
+gnupg-l10n 2.2.45-2 all
+gnupg-utils 2.2.45-2 arm64
+gnupg2 2.2.45-2 all
+go-l2tp 0.1.8-1+b3 arm64
+gobuster 3.6.0-1+b4 arm64
+golang-1.22-go 1.22.9-2 arm64
+golang-1.22-src 1.22.9-2 all
+golang-1.23-go 1.23.3-2 arm64
+golang-1.23-src 1.23.3-2 all
+golang-go:arm64 2:1.23~2 arm64
+golang-src 2:1.23~2 all
+gopher 3.0.17.4 arm64
+gpg 2.2.45-2 arm64
+gpg-agent 2.2.45-2 arm64
+gpg-wks-client 2.2.45-2 arm64
+gpg-wks-server 2.2.45-2 arm64
+gpgconf 2.2.45-2 arm64
+gpgsm 2.2.45-2 arm64
+gpgv 2.2.45-2 arm64
+gpsd 3.25-4+b1 arm64
+gpsd-tools 3.25-4+b1 arm64
+gradle 4.4.1-20 all
+grep 3.11-4+b1 arm64
+groff-base 1.23.0-5 arm64
+groovy 2.4.21-10 all
+gsasl-common 2.2.1-1 all
+gsettings-desktop-schemas 47.1-1 all
+gstreamer1.0-gl:arm64 1.24.9-1 arm64
+gstreamer1.0-libav:arm64 1.24.9-1 arm64
+gstreamer1.0-plugins-bad:arm64 1.24.9-1 arm64
+gstreamer1.0-plugins-base:arm64 1.24.9-1 arm64
+gstreamer1.0-plugins-good:arm64 1.24.9-1 arm64
+gstreamer1.0-x:arm64 1.24.9-1 arm64
+gtk-update-icon-cache 4.16.5+ds-2 arm64
+gtk2-engines-pixbuf:arm64 2.24.33-6 arm64
+gtkhash 1.5-2+b1 arm64
+gvfs:arm64 1.56.1-1 arm64
+gvfs-backends 1.56.1-1 arm64
+gvfs-common 1.56.1-1 all
+gvfs-daemons 1.56.1-1 arm64
+gvfs-fuse 1.56.1-1 arm64
+gvfs-libs:arm64 1.56.1-1 arm64
+gzip 1.12-1.1+b1 arm64
+hashcat 6.2.6+ds2-1+b1 arm64
+hashcat-data 6.2.6+ds2-1 all
+haveged 1.9.19-3 arm64
+hexedit 1.6-1+b1 arm64
+hicolor-icon-theme 0.18-1 all
+hostapd 2:2.10-22 arm64
+hostname 3.25 arm64
+hunspell-en-us 1:2020.12.07-3 all
+hwloc 2.11.2-1 arm64
+hydra 9.5-3 arm64
+icu-devtools 72.1-5+b1 arm64
+ieee-data 20240722 all
+ifupdown 0.8.44 arm64
+imagemagick 8:6.9.13.12+dfsg1-1+b1 arm64
+imagemagick-6-common 8:6.9.13.12+dfsg1-1 all
+imagemagick-6.q16 8:6.9.12.98+dfsg1-5+b1 arm64
+init 1.67+kali1 arm64
+init-system-helpers 1.67+kali1 all
+initramfs-tools 0.145 all
+initramfs-tools-core 0.145 all
+ipp-usb 0.9.23-2+b2 arm64
+iproute2 6.11.0-1 arm64
+iptables 1.8.10-4+b1 arm64
+iputils-ping 3:20240117-1 arm64
+ipython3 8.29.0-1 all
+isc-dhcp-client 4.4.3-P1-5+b1 arm64
+isc-dhcp-common 4.4.3-P1-5+b1 arm64
+isc-dhcp-server 4.4.3-P1-5+b1 arm64
+iso-codes 4.17.0-1 all
+isympy-common 1.13.3-1 all
+isympy3 1.13.3-1 all
+ivy 2.5.2-1 all
+iw 6.9-1+b1 arm64
+java-common 0.76 all
+java-wrappers 0.5 all
+javascript-common 11+nmu1 all
+john 1.9.0-Jumbo-1+git20211102-0kali9 arm64
+john-data 1.9.0-Jumbo-1+git20211102-0kali9 all
+junit4 4.13.2-5 all
+kali-archive-keyring 2024.1 all
+kali-defaults 2024.4.6 all
+kali-defaults-desktop 2024.2.0 all
+kali-desktop-base 2024.4.11 all
+kali-grant-root 2024.4.0 all
+kali-hidpi-mode 2024.2.0 all
+kali-linux-core 2024.4.8 arm64
+kali-menu 2024.3.1 all
+kali-system-core 2024.4.8 arm64
+kali-themes 2024.4.11 all
+kali-themes-common 2024.4.11 all
+kali-tweaks 2023.3.2 all
+kali-undercover 2023.4.2 all
+kali-wallpapers-2024 2024.4.1 all
+kbd 2.6.4-3 arm64
+keyboard-configuration 1.232 all
+kismet 2023.07.R1-0kali6 arm64
+kismet-capture-common 2023.07.R1-0kali6 all
+kismet-capture-hak5-wifi-coconut 2023.07.R1-0kali4 arm64
+kismet-capture-linux-bluetooth 2023.07.R1-0kali4 arm64
+kismet-capture-linux-wifi 2023.07.R1-0kali4 arm64
+kismet-capture-nrf-51822 2023.07.R1-0kali4 arm64
+kismet-capture-nrf-52840 2023.07.R1-0kali4 arm64
+kismet-capture-nrf-mousejack 2023.07.R1-0kali4 arm64
+kismet-capture-nxp-kw41z 2023.07.R1-0kali4 arm64
+kismet-capture-rz-killerbee 2023.07.R1-0kali4 arm64
+kismet-capture-ti-cc-2531 2023.07.R1-0kali4 arm64
+kismet-capture-ti-cc-2540 2023.07.R1-0kali4 arm64
+kismet-capture-ubertooth-one 2023.07.R1-0kali4 arm64
+kismet-core 2023.07.R1-0kali4 arm64
+kismet-logtools 2023.07.R1-0kali6 arm64
+kismet-plugins 2023.07.R1-0kali6 arm64
+klibc-utils 2.0.13-4 arm64
+kmod 33+20240816-2 arm64
+krb5-multidev:arm64 1.21.3-3 arm64
+kubernetes-client 1.20.5+really1.20.2-1.1 arm64
+lambda-align 1.0.3-6+b1 arm64
+lame 3.100-6+b3 arm64
+laptop-detect 0.16 all
+less 643-1+b1 arm64
+libaa1:arm64 1.4p5-51.1+b1 arm64
+libaacs0:arm64 0.11.1-4+b1 arm64
+libabsl20230802:arm64 20230802.1-4 arm64
+libaccountsservice0:arm64 23.13.9-7 arm64
+libacl1:arm64 2.3.2-2+b1 arm64
+libadwaita-1-0:arm64 1.6.0-1kali8 arm64
+libafflib0t64:arm64 3.7.20-2+b1 arm64
+libalgorithm-diff-perl 1.201-1 all
+libalgorithm-diff-xs-perl:arm64 0.04-8+b4 arm64
+libalgorithm-merge-perl 0.08-5 all
+libantlr-java 2.7.7+dfsg-14 all
+libao-common 1.2.2+20180113-1.2 all
+libao4:arm64 1.2.2+20180113-1.2 arm64
+libaom3:arm64 3.11.0~rc1-1 arm64
+libaopalliance-java 20070526-7 all
+libapache-pom-java 33-2 all
+libapache2-mod-php 2:8.2+93+nmu1 all
+libapache2-mod-php8.2 8.2.24-1+b1 arm64
+libapparmor1:arm64 3.1.7-1+b3 arm64
+libappstream5:arm64 1.0.3-1+b1 arm64
+libapr1t64:arm64 1.7.5-1 arm64
+libaprutil1-dbd-sqlite3:arm64 1.6.3-3 arm64
+libaprutil1-ldap:arm64 1.6.3-3 arm64
+libaprutil1t64:arm64 1.6.3-3 arm64
+libapt-pkg-perl 0.1.40+b6 arm64
+libapt-pkg6.0t64:arm64 2.9.10+kali1 arm64
+libarchive-zip-perl 1.68-1 all
+libarchive13t64:arm64 3.7.4-1.1 arm64
+libargon2-1:arm64 0~20190702+dfsg-4+b2 arm64
+libasan8:arm64 14.2.0-8 arm64
+libasm-java 9.7.1-1 all
+libasound2-data 1.2.12-1 all
+libasound2-plugins:arm64 1.2.12-2+b1 arm64
+libasound2t64:arm64 1.2.12-1+b1 arm64
+libaspell15:arm64 0.60.8.1-1+b2 arm64
+libass9:arm64 1:0.17.3-1+b1 arm64
+libassuan0:arm64 2.5.6-1+b1 arm64
+libassuan9:arm64 3.0.1-2 arm64
+libasyncns0:arm64 0.8-6+b5 arm64
+libatasmart4:arm64 0.19-5+b2 arm64
+libatinject-jsr330-api-java 1.0+ds1-5 all
+libatk-adaptor:arm64 2.52.0-1 arm64
+libatk-bridge2.0-0t64:arm64 2.54.0-1 arm64
+libatk-wrapper-java 0.40.0-3 all
+libatk-wrapper-java-jni:arm64 0.40.0-3+b3 arm64
+libatk1.0-0t64:arm64 2.54.0-1 arm64
+libatomic1:arm64 14.2.0-8 arm64
+libatopology2t64:arm64 1.2.12-1+b1 arm64
+libatrildocument3t64 1.26.2-3 arm64
+libatrilview3t64 1.26.2-3 arm64
+libatspi2.0-0t64:arm64 2.54.0-1 arm64
+libattr1:arm64 1:2.5.2-2 arm64
+libaudio2:arm64 1.9.4-9 arm64
+libaudit-common 1:4.0.1-3 all
+libaudit1:arm64 1:4.0.1-3 arm64
+libauthen-sasl-perl 2.1700-1 all
+libavahi-client3:arm64 0.8-13+b3 arm64
+libavahi-common-data:arm64 0.8-13+b3 arm64
+libavahi-common3:arm64 0.8-13+b3 arm64
+libavahi-core7:arm64 0.8-13+b3 arm64
+libavahi-glib1:arm64 0.8-13+b3 arm64
+libavc1394-0:arm64 0.5.4-5+b2 arm64
+libavcodec60:arm64 7:6.1.1-5+b1 arm64
+libavcodec61:arm64 7:7.1-3 arm64
+libavdevice61:arm64 7:7.1-3 arm64
+libavfilter10:arm64 7:7.1-3 arm64
+libavfilter9:arm64 7:6.1.1-5+b1 arm64
+libavformat60:arm64 7:6.1.1-5+b1 arm64
+libavformat61:arm64 7:7.1-3 arm64
+libavif16:arm64 1.1.1-1 arm64
+libavtp0:arm64 0.2.0-1+b2 arm64
+libavutil58:arm64 7:6.1.1-5+b1 arm64
+libavutil59:arm64 7:7.1-3 arm64
+libayatana-appindicator3-1 0.5.93+really-1+b1 arm64
+libayatana-ido3-0.4-0:arm64 0.10.4-1 arm64
+libayatana-indicator3-7:arm64 0.9.4-1+b1 arm64
+libb2-1:arm64 0.98.1-1.1+b2 arm64
+libbcel-java 6.10.0-1 all
+libbcg729-0:arm64 1.1.1-2+b3 arm64
+libbcpg-java 1.77-1 all
+libbcprov-java 1.77-1 all
+libbdplus0:arm64 0.2.0-4+b1 arm64
+libbfio1:arm64 20170123-6+b2 arm64
+libbindex-java 2.2+svn101-4 all
+libbinutils:arm64 2.43.1-5 arm64
+libblas3:arm64 3.12.0-3+b1 arm64
+libblkid1:arm64 2.40.2-9 arm64
+libblockdev-crypto3:arm64 3.2.1-1 arm64
+libblockdev-fs3:arm64 3.2.1-1 arm64
+libblockdev-loop3:arm64 3.2.1-1 arm64
+libblockdev-mdraid3:arm64 3.2.1-1 arm64
+libblockdev-nvme3:arm64 3.1.0-1 arm64
+libblockdev-part3:arm64 3.2.1-1 arm64
+libblockdev-swap3:arm64 3.2.1-1 arm64
+libblockdev-utils3:arm64 3.2.1-1 arm64
+libblockdev3:arm64 3.2.1-1 arm64
+libbluetooth3:arm64 5.77-1+kali1 arm64
+libbluray2:arm64 1:1.3.4-1+b2 arm64
+libbpf1:arm64 1:1.5.0-1 arm64
+libbrlapi0.8:arm64 6.7-1+b1 arm64
+libbrotli-dev:arm64 1.1.0-2+b6 arm64
+libbrotli1:arm64 1.1.0-2+b6 arm64
+libbs2b0:arm64 3.1.0+dfsg-8+b1 arm64
+libbsd0:arm64 0.12.2-2 arm64
+libbsf-java 1:2.4.0-8 all
+libbsh-java 2.0b4-20 all
+libbson-1.0-0t64 1.28.1-1 arm64
+libbtbb1:arm64 2018.12.R1-1+b2 arm64
+libbytesize-common 2.11-1 all
+libbytesize1:arm64 2.11-1 arm64
+libbz2-1.0:arm64 1.0.8-6 arm64
+libbz2-dev:arm64 1.0.8-6 arm64
+libc++1-19:arm64 1:19.1.3-2 arm64
+libc++abi1-19:arm64 1:19.1.3-2 arm64
+libc-bin 2.40-3 arm64
+libc-dev-bin 2.40-3 arm64
+libc-devtools 2.40-3 arm64
+libc-l10n 2.40-3 all
+libc6:arm64 2.40-3 arm64
+libc6-dev:arm64 2.40-3 arm64
+libcaca0:arm64 0.99.beta20-5 arm64
+libcairo-gobject2:arm64 1.18.2-2 arm64
+libcairo-script-interpreter2:arm64 1.18.2-2 arm64
+libcairo2:arm64 1.18.2-2 arm64
+libcairomm-1.16-1:arm64 1.18.0-1+b2 arm64
+libcaja-extension1:arm64 1.26.3-1+b2 arm64
+libcanberra-gtk3-0:arm64 0.30-17+b1 arm64
+libcanberra-gtk3-module:arm64 0.30-17+b1 arm64
+libcanberra0:arm64 0.30-17+b1 arm64
+libcap-ng0:arm64 0.8.5-3+b1 arm64
+libcap2:arm64 1:2.66-5+b1 arm64
+libcap2-bin 1:2.66-5+b1 arm64
+libcapstone4:arm64 4.0.2-5.1+b1 arm64
+libcares2:arm64 1.34.2-1 arm64
+libcbor0.10:arm64 0.10.2-2 arm64
+libcc1-0:arm64 14.2.0-8 arm64
+libccid 1.6.1-2 arm64
+libcdi-api-java 1.2-4 all
+libcdio-cdda2t64:arm64 10.2+2.0.2-1+b1 arm64
+libcdio-paranoia2t64:arm64 10.2+2.0.2-1+b1 arm64
+libcdio19t64:arm64 2.1.0-4.2+b1 arm64
+libcdparanoia0:arm64 3.10.2+debian-14+b1 arm64
+libcgi-fast-perl 1:2.17-1 all
+libcgi-pm-perl 4.66-1 all
+libcharon-extauth-plugins 5.9.13-2+b2 arm64
+libchromaprint1:arm64 1.5.1-6 arm64
+libcjson1:arm64 1.7.18-3+b1 arm64
+libclang-common-17-dev:arm64 1:17.0.6-18 arm64
+libclang-common-19-dev:arm64 1:19.1.3-2 arm64
+libclang-cpp17t64 1:17.0.6-18 arm64
+libclang-cpp19 1:19.1.3-2 arm64
+libclang-rt-17-dev:arm64 1:17.0.6-18 arm64
+libclang-rt-19-dev:arm64 1:19.1.3-2 arm64
+libclang1-17t64 1:17.0.6-18 arm64
+libclang1-19 1:19.1.3-2 arm64
+libclone-perl:arm64 0.47-1+b1 arm64
+libcloudproviders0:arm64 0.3.6-1+b1 arm64
+libcodec2-1.2:arm64 1.2.0-2+b2 arm64
+libcolord2:arm64 1.4.7-1+b2 arm64
+libcolorhug2:arm64 1.4.7-1+b2 arm64
+libcom-err2:arm64 1.47.1-1+b1 arm64
+libcommon-sense-perl:arm64 3.75-3+b3 arm64
+libcommons-cli-java 1.6.0-1 all
+libcommons-codec-java 1.17.1-1 all
+libcommons-collections3-java 3.2.2-3 all
+libcommons-compress-java 1.27.1-2 all
+libcommons-io-java 2.17.0-1 all
+libcommons-lang-java 2.6-10 all
+libcommons-lang3-java 3.17.0-1 all
+libcommons-logging-java 1.3.0-1 all
+libcommons-parent-java 56-1 all
+libcompress-raw-lzma-perl:arm64 2.213-1+b1 arm64
+libconfig++9v5:arm64 1.5-0.4+b2 arm64
+libconfig-inifiles-perl 3.000003-3 all
+libcrack2:arm64 2.9.6-5.1+b3 arm64
+libcrypt-dev:arm64 1:4.4.36-5 arm64
+libcrypt1:arm64 1:4.4.36-5 arm64
+libcryptsetup12:arm64 2:2.7.5-1 arm64
+libctf-nobfd0:arm64 2.43.1-5 arm64
+libctf0:arm64 2.43.1-5 arm64
+libcups2t64:arm64 2.4.10-2 arm64
+libcurl3t64-gnutls:arm64 8.11.0-1 arm64
+libcurl4-openssl-dev:arm64 8.11.0-1 arm64
+libcurl4t64:arm64 8.11.0-1 arm64
+libdaemon0:arm64 0.14-7.1+b2 arm64
+libdata-dump-perl 1.25-1 all
+libdate-manip-perl 6.95-1 all
+libdatrie1:arm64 0.2.13-3+b1 arm64
+libdav1d7:arm64 1.5.0-1+b1 arm64
+libdb5.3t64:arm64 5.3.28+dfsg2-9 arm64
+libdbd-mariadb-perl 1.22-1+b4 arm64
+libdbi-perl:arm64 1.645-1+b1 arm64
+libdbus-1-3:arm64 1.14.10-6 arm64
+libdbus-glib-1-2:arm64 0.112-3+b3 arm64
+libdbusmenu-glib4:arm64 18.10.20180917~bzr492+repack1-3.1+b2 arm64
+libdbusmenu-gtk3-4:arm64 18.10.20180917~bzr492+repack1-3.1+b2 arm64
+libdc1394-25:arm64 2.2.6-4+b2 arm64
+libdca0:arm64 0.0.7-2+b2 arm64
+libdconf1:arm64 0.40.0-4+b3 arm64
+libdd-plist-java 1.20-1.1 all
+libde265-0:arm64 1.0.15-1+b2 arm64
+libdebconfclient0:arm64 0.273 arm64
+libdecor-0-0:arm64 0.2.2-1+b2 arm64
+libdecor-0-plugin-1-gtk:arm64 0.2.2-1+b2 arm64
+libdeflate0:arm64 1.22-1 arm64
+libdevmapper1.02.1:arm64 2:1.02.201-1 arm64
+libdigest-bubblebabble-perl 0.02-2.1 all
+libdigest-hmac-perl 1.05+dfsg-1 all
+libdirectfb-1.7-7t64:arm64 1.7.7-13 arm64
+libdjvulibre-text 3.5.28-2 all
+libdjvulibre21:arm64 3.5.28-2+b2 arm64
+libdom4j-java 2.1.4-1 all
+libdotconf0:arm64 1.3-0.3+b2 arm64
+libdouble-conversion3:arm64 3.3.0-1+b2 arm64
+libdpkg-perl 1.22.11+kali2 all
+libdrm-amdgpu1:arm64 2.4.123-1 arm64
+libdrm-common 2.4.123-1 all
+libdrm-nouveau2:arm64 2.4.123-1 arm64
+libdrm-radeon1:arm64 2.4.123-1 arm64
+libdrm2:arm64 2.4.123-1 arm64
+libduktape207:arm64 2.7.0-2+b2 arm64
+libdv4t64:arm64 1.0.0-17.1+b1 arm64
+libdvdnav4:arm64 6.1.1-3+b1 arm64
+libdvdread8t64:arm64 6.1.3-2 arm64
+libdw1t64:arm64 0.192-4 arm64
+libeac3:arm64 1.1.2+ds+git20220117+453c3d6b03a0-1.1+b3 arm64
+libeclipse-jdt-annotation-java 2.2.700+eclipse4.29-2 all
+libedit2:arm64 3.1-20240808-1 arm64
+libegl-dev:arm64 1.7.0-1+b2 arm64
+libegl-mesa0:arm64 24.2.6-1 arm64
+libegl1:arm64 1.7.0-1+b2 arm64
+libel-api-java 3.0.0-3 all
+libelf1t64:arm64 0.192-4 arm64
+libenchant-2-2:arm64 2.3.3-2+b3 arm64
+libencode-locale-perl 1.05-3 all
+libepoxy0:arm64 1.5.10-2 arm64
+liberror-perl 0.17029-2 all
+liberror-prone-java 2.18.0-1 all
+libespeak-ng1:arm64 1.51+dfsg-12+b1 arm64
+libespeak1:arm64 1.48.15+dfsg-3+b2 arm64
+libev4t64:arm64 1:4.33-2.1+b1 arm64
+libevdev2:arm64 1.13.3+dfsg-1 arm64
+libevent-2.1-7t64:arm64 2.1.12-stable-10+b1 arm64
+libevent-core-2.1-7t64:arm64 2.1.12-stable-10+b1 arm64
+libevent-openssl-2.1-7t64:arm64 2.1.12-stable-10+b1 arm64
+libevent-pthreads-2.1-7t64:arm64 2.1.12-stable-10+b1 arm64
+libewf2:arm64 20140814-1+b3 arm64
+libexif12:arm64 0.6.24-1+b2 arm64
+libexo-2-0:arm64 4.18.0-1+b3 arm64
+libexo-common 4.18.0-1 all
+libexpat1:arm64 2.6.4-1 arm64
+libexpat1-dev:arm64 2.6.4-1 arm64
+libext2fs2t64:arm64 1.47.1-1+b1 arm64
+libfaad2:arm64 2.11.1-1+b2 arm64
+libfakeroot:arm64 1.36-1 arm64
+libfbclient2:arm64 3.0.11.33703.ds4-4 arm64
+libfcgi-bin 2.4.2-2.1+b1 arm64
+libfcgi-perl 0.82+ds-3+b2 arm64
+libfcgi0t64:arm64 2.4.2-2.1+b1 arm64
+libfdisk1:arm64 2.40.2-9 arm64
+libfelix-framework-java 4.6.1-2.1 all
+libfelix-gogo-runtime-java 0.16.2-1.1 all
+libfelix-osgi-obr-java 1.0.2-5 all
+libfelix-resolver-java 1.16.0-1 all
+libffado2:arm64 2.4.9-1+b1 arm64
+libffi-dev:arm64 3.4.6-1 arm64
+libffi8:arm64 3.4.6-1 arm64
+libfftw3-double3:arm64 3.3.10-1+b3 arm64
+libfftw3-single3:arm64 3.3.10-1+b3 arm64
+libfido2-1:arm64 1.15.0-1+b1 arm64
+libfile-basedir-perl 0.09-2 all
+libfile-desktopentry-perl 0.22-3 all
+libfile-fcntllock-perl 0.22-4+b4 arm64
+libfile-listing-perl 6.16-1 all
+libfile-mimeinfo-perl 0.35-1 all
+libfile-readbackwards-perl 1.06-2 all
+libfindbugs-java 3.1.0~preview2-4 all
+libflac12t64:arm64 1.4.3+ds-2.1+b1 arm64
+libflashrom1:arm64 1.4.0-3 arm64
+libflite1:arm64 2.2-6+b3 arm64
+libfluidsynth3:arm64 2.4.0-1 arm64
+libfont-afm-perl 1.20-4 all
+libfontconfig1:arm64 2.15.0-1.1+b1 arm64
+libfontenc1:arm64 1:1.1.8-1+b1 arm64
+libfreeaptx0:arm64 0.1.1-2+b2 arm64
+libfreerdp2-2t64:arm64 2.11.7+dfsg1-4 arm64
+libfreerdp3-3:arm64 3.6.3+dfsg1-2+b1 arm64
+libfreetype6:arm64 2.13.3+dfsg-1 arm64
+libfribidi0:arm64 1.0.15-1 arm64
+libfstrm0:arm64 0.6.1-1+b3 arm64
+libftdi1-2:arm64 1.5-7+b1 arm64
+libfuse3-3:arm64 3.14.0-10 arm64
+libgail-common:arm64 2.24.33-6 arm64
+libgail18t64:arm64 2.24.33-6 arm64
+libgarcon-1-0:arm64 4.18.1-1+b3 arm64
+libgarcon-common 4.18.1-1 all
+libgarcon-gtk3-1-0:arm64 4.18.1-1+b3 arm64
+libgav1-1:arm64 0.19.0-2+b2 arm64
+libgbm1:arm64 24.2.6-1 arm64
+libgc1:arm64 1:8.2.8-1 arm64
+libgcc-13-dev:arm64 13.3.0-8 arm64
+libgcc-14-dev:arm64 14.2.0-8 arm64
+libgcc-s1:arm64 14.2.0-8 arm64
+libgck-1-0:arm64 3.41.2-1+b2 arm64
+libgck-2-2:arm64 4.3.0-1 arm64
+libgcr-4-4:arm64 4.3.0-1 arm64
+libgcr-base-3-1:arm64 3.41.2-1+b2 arm64
+libgcr-ui-3-1:arm64 3.41.2-1+b2 arm64
+libgcrypt20:arm64 1.11.0-6 arm64
+libgd3:arm64 2.3.3-12+b1 arm64
+libgdata-common 0.18.1-8 all
+libgdata22:arm64 0.18.1-8 arm64
+libgdbm-compat4t64:arm64 1.24-2 arm64
+libgdbm6t64:arm64 1.24-2 arm64
+libgdk-pixbuf-2.0-0:arm64 2.42.12+dfsg-1+b1 arm64
+libgdk-pixbuf2.0-bin 2.42.12+dfsg-1+b1 arm64
+libgdk-pixbuf2.0-common 2.42.12+dfsg-1 all
+libgeoip1t64:arm64 1.6.12-11.1+b1 arm64
+libgeronimo-annotation-1.3-spec-java 1.3-1 all
+libgeronimo-interceptor-3.0-spec-java 1.0.1-4 all
+libgfortran5:arm64 14.2.0-8 arm64
+libgif7:arm64 5.2.2-1+b1 arm64
+libgirepository-1.0-1:arm64 1.82.0-2 arm64
+libgit2-1.7:arm64 1.7.2+ds-1+b2 arm64
+libgit2-1.8:arm64 1.8.2~rc1+ds2-1 arm64
+libgl-dev:arm64 1.7.0-1+b2 arm64
+libgl1:arm64 1.7.0-1+b2 arm64
+libgl1-mesa-dev:arm64 24.2.6-1 arm64
+libgl1-mesa-dri:arm64 24.2.6-1 arm64
+libglapi-mesa:arm64 24.2.6-1 arm64
+libgles-dev:arm64 1.7.0-1+b2 arm64
+libgles1:arm64 1.7.0-1+b2 arm64
+libgles2:arm64 1.7.0-1+b2 arm64
+libglib2.0-0:arm64 2.78.3-2 arm64
+libglib2.0-0t64:arm64 2.82.2-2 arm64
+libglib2.0-data 2.82.2-2 all
+libglibmm-2.4-1t64:arm64 2.66.7-1+b1 arm64
+libglibmm-2.68-1t64:arm64 2.82.0-1 arm64
+libglu1-mesa:arm64 9.0.2-1.1+b2 arm64
+libglu1-mesa-dev:arm64 9.0.2-1.1+b2 arm64
+libglut-dev:arm64 3.4.0-1+b2 arm64
+libglut3.12:arm64 3.4.0-1+b2 arm64
+libglvnd-core-dev:arm64 1.7.0-1+b2 arm64
+libglvnd-dev:arm64 1.7.0-1+b2 arm64
+libglvnd0:arm64 1.7.0-1+b2 arm64
+libglx-dev:arm64 1.7.0-1+b2 arm64
+libglx-mesa0:arm64 24.2.6-1 arm64
+libglx0:arm64 1.7.0-1+b2 arm64
+libgme0:arm64 0.6.3-7+b2 arm64
+libgmp-dev:arm64 2:6.3.0+dfsg-2+b2 arm64
+libgmp10:arm64 2:6.3.0+dfsg-2+b2 arm64
+libgmpxx4ldbl:arm64 2:6.3.0+dfsg-2+b2 arm64
+libgnutls-dane0t64:arm64 3.8.8-2 arm64
+libgnutls-openssl27t64:arm64 3.8.8-2 arm64
+libgnutls28-dev:arm64 3.8.8-2 arm64
+libgnutls30t64:arm64 3.8.8-2 arm64
+libgoa-1.0-0b:arm64 3.52.0-1 arm64
+libgoa-1.0-common 3.52.0-1 all
+libgomp1:arm64 14.2.0-8 arm64
+libgoogle-gson-java 2.10.1-1 all
+libgpars-groovy-java 1.2.1-11 all
+libgpg-error0:arm64 1.50-4 arm64
+libgpgme11t64:arm64 1.24.0-2 arm64
+libgpgmepp6t64:arm64 1.24.0-2 arm64
+libgphoto2-6:arm64 2.5.31-2 arm64
+libgphoto2-6t64:arm64 2.5.31-4 arm64
+libgphoto2-l10n 2.5.31-4 all
+libgphoto2-port12t64:arm64 2.5.31-4 arm64
+libgpm2:arm64 1.20.7-11+b1 arm64
+libgprofng0:arm64 2.43.1-5 arm64
+libgps30t64:arm64 3.25-4+b1 arm64
+libgradle-core-java 4.4.1-20 all
+libgradle-plugins-java 4.4.1-20 all
+libgraphene-1.0-0:arm64 1.10.8-4 arm64
+libgraphite2-3:arm64 1.3.14-2+b1 arm64
+libgs-common 10.04.0~dfsg-1 all
+libgs10:arm64 10.04.0~dfsg-1 arm64
+libgs10-common 10.04.0~dfsg-1 all
+libgsasl18:arm64 2.2.1-1+b2 arm64
+libgsm1:arm64 1.0.22-1+b2 arm64
+libgspell-1-2:arm64 1.12.2-1+b2 arm64
+libgspell-1-3:arm64 1.14.0-2 arm64
+libgspell-1-common 1.14.0-2 all
+libgssapi-krb5-2:arm64 1.21.3-3 arm64
+libgssdp-1.6-0:arm64 1.6.3-1+b3 arm64
+libgssglue1:arm64 0.9-1+b1 arm64
+libgssrpc4t64:arm64 1.21.3-3 arm64
+libgstreamer-gl1.0-0:arm64 1.24.9-1 arm64
+libgstreamer-plugins-bad1.0-0:arm64 1.24.9-1 arm64
+libgstreamer-plugins-base1.0-0:arm64 1.24.9-1 arm64
+libgstreamer1.0-0:arm64 1.24.9-1 arm64
+libgtk-3-0:arm64 3.24.41-1 arm64
+libgtk-3-0t64:arm64 3.24.43-4 arm64
+libgtk-3-bin 3.24.43-4 arm64
+libgtk-3-common 3.24.43-4 all
+libgtk-4-1:arm64 4.16.5+ds-2 arm64
+libgtk-4-bin 4.16.5+ds-2 arm64
+libgtk-4-common 4.16.5+ds-2 all
+libgtk-4-media-gstreamer 4.16.5+ds-2 arm64
+libgtk-layer-shell0 0.8.2-1+b1 arm64
+libgtk2.0-0t64:arm64 2.24.33-6 arm64
+libgtk2.0-bin 2.24.33-6 arm64
+libgtk2.0-common 2.24.33-6 all
+libgtkmm-4.0-0:arm64 4.16.0-1 arm64
+libgtksourceview-4-0:arm64 4.8.4-5+b3 arm64
+libgtksourceview-4-common 4.8.4-5 all
+libgtop-2.0-11:arm64 2.41.3-1+b2 arm64
+libgtop2-common 2.41.3-1 all
+libguava-java 32.0.1-1 all
+libgudev-1.0-0:arm64 238-5+b1 arm64
+libguice-java 4.2.3-2 all
+libgupnp-1.6-0:arm64 1.6.6-1+b3 arm64
+libgupnp-igd-1.6-0:arm64 1.6.0-3+b3 arm64
+libgusb2:arm64 0.4.9-1+b1 arm64
+libgxps2t64:arm64 0.3.2-4+b2 arm64
+libhamcrest-java 2.2-2 all
+libhandy-1-0:arm64 1.8.3-1+b2 arm64
+libharfbuzz-gobject0:arm64 10.0.1-1 arm64
+libharfbuzz-icu0:arm64 10.0.1-1 arm64
+libharfbuzz-subset0:arm64 10.0.1-1 arm64
+libharfbuzz0b:arm64 10.0.1-1 arm64
+libhashkit2t64:arm64 1.1.4-1.1+b2 arm64
+libhavege2:arm64 1.9.19-3 arm64
+libhawtjni-runtime-java 1.18-1 all
+libheif-plugin-aomenc:arm64 1.19.3-1 arm64
+libheif-plugin-dav1d:arm64 1.19.3-1 arm64
+libheif-plugin-libde265:arm64 1.19.3-1 arm64
+libheif-plugin-x265:arm64 1.19.3-1 arm64
+libheif1:arm64 1.19.3-1 arm64
+libhogweed6t64:arm64 3.10-1+b1 arm64
+libhtml-form-perl 6.12-1 all
+libhtml-format-perl 2.16-2 all
+libhtml-parser-perl:arm64 3.83-1+b1 arm64
+libhtml-tagset-perl 3.24-1 all
+libhtml-template-perl 2.97-2 all
+libhtml-tree-perl 5.07-3 all
+libhttp-cookies-perl 6.11-1 all
+libhttp-daemon-perl 6.16-1 all
+libhttp-date-perl 6.06-1 all
+libhttp-message-perl 7.00-2 all
+libhttp-negotiate-perl 6.01-2 all
+libhttp-parser2.9:arm64 2.9.4-6+b2 arm64
+libhttpclient-java 4.5.14-1 all
+libhttpcore-java 4.4.16-1 all
+libhunspell-1.7-0:arm64 1.7.2+really1.7.2-10+b3 arm64
+libhwasan0:arm64 14.2.0-8 arm64
+libhwloc-plugins:arm64 2.11.2-1 arm64
+libhwloc15:arm64 2.11.2-1 arm64
+libhwy1t64:arm64 1.2.0-2+b1 arm64
+libhyphen0:arm64 2.8.8-7+b2 arm64
+libical3t64:arm64 3.0.18-1+b1 arm64
+libice-dev:arm64 2:1.1.1-1 arm64
+libice6:arm64 2:1.1.1-1 arm64
+libicu-dev:arm64 72.1-5+b1 arm64
+libicu72:arm64 72.1-5+b1 arm64
+libidn12:arm64 1.42-2+b1 arm64
+libidn2-0:arm64 2.3.7-2+b1 arm64
+libidn2-dev:arm64 2.3.7-2+b1 arm64
+libiec61883-0:arm64 1.2.0-6+b2 arm64
+libieee1284-3t64:arm64 0.2.11-14.1+b1 arm64
+libijs-0.35:arm64 0.35-15.1+b2 arm64
+libimage-exiftool-perl 13.00+dfsg-1 all
+libimagequant0:arm64 2.18.0-1+b2 arm64
+libimath-3-1-29t64:arm64 3.1.12-1+b1 arm64
+libimobiledevice-1.0-6:arm64 1.3.0+git20240701-4 arm64
+libimobiledevice-glue-1.0-0 1.3.1-1 arm64
+libimobiledevice6:arm64 1.3.0-7.1+b1 arm64
+libiniparser1:arm64 4.2.1-1 arm64
+libiniparser4:arm64 4.2.4-1 arm64
+libinput-bin 1.26.2-1 arm64
+libinput10:arm64 1.26.2-1 arm64
+libinstpatch-1.0-2:arm64 1.1.6-1+b2 arm64
+libio-compress-brotli-perl 0.004001-2+b3 arm64
+libio-html-perl 1.004-3 all
+libio-socket-ssl-perl 2.089-1 all
+libio-stringy-perl 2.113-2 all
+libip4tc2:arm64 1.8.10-4+b1 arm64
+libip6tc2:arm64 1.8.10-4+b1 arm64
+libipc-system-simple-perl 1.30-2 all
+libisl23:arm64 0.27-1 arm64
+libitm1:arm64 14.2.0-8 arm64
+libiw30t64:arm64 30~pre9-18+b1 arm64
+libjack-jackd2-0:arm64 1.9.22~dfsg-3 arm64
+libjansi-java 2.4.1-2 all
+libjansi-native-java 1.8-2 all
+libjansi1-java 1.18-3 all
+libjansson4:arm64 2.14-2+b3 arm64
+libjarjar-java 1.4+svn142-12 all
+libjatl-java 0.2.3-1.1 all
+libjavaewah-java 1.2.3-1 all
+libjavascriptcoregtk-4.1-0:arm64 2.46.3-1 arm64
+libjaxen-java 1.1.6-5 all
+libjaylink0:arm64 0.3.1-1+b2 arm64
+libjbig0:arm64 2.1-6.1+b2 arm64
+libjbig2dec0:arm64 0.20-1+b3 arm64
+libjcifs-java 1.3.19-2 all
+libjcip-annotations-java 20060626-6 all
+libjcommander-java 1.71-4 all
+libjcsp-java 1.1-rc4-3 all
+libjemalloc2:arm64 5.3.0-2+b2 arm64
+libjetty9-java 9.4.56-1 all
+libjformatstring-java 0.10~20131207-2.1 all
+libjgit-java 6.7.0-2 all
+libjim0.82t64:arm64 0.82-6+b1 arm64
+libjim0.83:arm64 0.83-2 arm64
+libjline2-java 2.14.6-5 all
+libjna-java 5.15.0-1 all
+libjna-jni 5.15.0-1 arm64
+libjpeg62-turbo:arm64 1:2.1.5-3+b1 arm64
+libjq1:arm64 1.7.1-3+b1 arm64
+libjs-jquery 3.6.1+dfsg+~3.5.14-1 all
+libjs-jquery-ui 1.13.2+dfsg-1 all
+libjs-mathjax 2.7.9+dfsg-1 all
+libjs-skeleton 2.0.4-2 all
+libjs-source-map 0.7.0++dfsg2+really.0.6.1-15 all
+libjs-sphinxdoc 7.4.7-4 all
+libjs-underscore 1.13.4~dfsg+~1.11.4-3 all
+libjsch-java 0.2.19-1 all
+libjson-c5:arm64 0.18+ds-1 arm64
+libjson-glib-1.0-0:arm64 1.10.0+ds-3 arm64
+libjson-glib-1.0-common 1.10.0+ds-3 all
+libjson-perl 4.10000-1 all
+libjson-xs-perl 4.030-2+b4 arm64
+libjsoncpp25:arm64 1.9.5-6+b2 arm64
+libjsoup-java 1.15.3-1 all
+libjsp-api-java 2.3.4-3 all
+libjsr166y-java 1.7.0-3 all
+libjsr305-java 0.1~+svn49-11 all
+libjunixsocket-java 2.6.1-1 all
+libjunixsocket-jni 2.6.1-1+b1 arm64
+libjxl0.9:arm64 0.9.2-10+b1 arm64
+libjxr-tools 1.2~git20170615.f752187-5.3 arm64
+libjxr0t64:arm64 1.2~git20170615.f752187-5.3 arm64
+libjzlib-java 1.1.3-3 all
+libk5crypto3:arm64 1.21.3-3 arm64
+libkadm5clnt-mit12:arm64 1.21.3-3 arm64
+libkadm5srv-mit12:arm64 1.21.3-3 arm64
+libkdb5-10t64:arm64 1.21.3-3 arm64
+libkeybinder-3.0-0:arm64 0.3.2-1.1+b3 arm64
+libkeyutils1:arm64 1.6.3-4 arm64
+libklibc:arm64 2.0.13-4 arm64
+libkmod2:arm64 33+20240816-2 arm64
+libkpathsea6:arm64 2024.20240313.70630+ds-5 arm64
+libkrb5-3:arm64 1.21.3-3 arm64
+libkrb5-dev:arm64 1.21.3-3 arm64
+libkrb5support0:arm64 1.21.3-3 arm64
+libkryo-java 2.20-7 all
+libksba8:arm64 1.6.7-2+b1 arm64
+libkxml2-java 2.3.0+ds1-2.1 all
+liblapack3:arm64 3.12.0-3+b1 arm64
+liblbfgsb0:arm64 3.0+dfsg.4-1+b2 arm64
+liblc3-1:arm64 1.1.1+dfsg-1+b1 arm64
+liblcms2-2:arm64 2.16-2 arm64
+libldacbt-abr2:arm64 2.0.2.3+git20200429+ed310a0-5 arm64
+libldacbt-enc2:arm64 2.0.2.3+git20200429+ed310a0-5 arm64
+libldap-2.5-0:arm64 2.5.18+dfsg-3+b1 arm64
+libldap-common 2.5.18+dfsg-3 all
+libldap-dev:arm64 2.5.18+dfsg-3+b1 arm64
+libldb2:arm64 2:2.10.0+samba4.21.1+dfsg-2kali1 arm64
+liblerc4:arm64 4.0.0+ds-5 arm64
+liblightcouch-java 0.2.0-1 all
+liblightdm-gobject-1-0:arm64 1.32.0-6+b1 arm64
+liblilv-0-0:arm64 0.24.24-2+b1 arm64
+liblinear4:arm64 2.3.0+dfsg-5+b2 arm64
+libllhttp9.1 9.2.1~5.28.4+dfsg1+~cs23.12.11-2+b1 arm64
+libllvm16:arm64 1:16.0.6-19 arm64
+libllvm17t64:arm64 1:17.0.6-18 arm64
+libllvm19:arm64 1:19.1.3-2 arm64
+liblmdb0:arm64 0.9.31-1+b2 arm64
+liblocale-gettext-perl 1.07-7+b1 arm64
+liblockfile-bin 1.17-1+b2 arm64
+liblockfile1:arm64 1.17-1+b2 arm64
+liblog4j2-java 2.19.0-2 all
+liblogback-java 1:1.2.11-5 all
+liblouis-data 3.31.0-2 all
+liblouis20:arm64 3.31.0-2 arm64
+liblqr-1-0:arm64 0.4.2-2.1+b2 arm64
+liblrdf0:arm64 0.6.1-4+b2 arm64
+liblsan0:arm64 14.2.0-8 arm64
+libltc11:arm64 1.3.2-1+b2 arm64
+libltdl-dev:arm64 2.4.7-8 arm64
+libltdl7:arm64 2.4.7-8 arm64
+liblua5.2-0:arm64 5.2.4-3+b3 arm64
+liblua5.4-0:arm64 5.4.6-3+b2 arm64
+libluajit-5.1-2:arm64 2.1.0+openresty20240815-1 arm64
+libluajit-5.1-common 2.1.0+openresty20240815-1 all
+liblwp-mediatypes-perl 6.04-2 all
+liblwp-protocol-https-perl 6.14-1 all
+liblz4-1:arm64 1.9.4-3+b1 arm64
+liblzma5:arm64 5.6.3-1+b1 arm64
+liblzo2-2:arm64 2.10-3+b1 arm64
+libmagic-mgc 1:5.45-3+b1 arm64
+libmagic1:arm64 1:5.45-2+b1 arm64
+libmagic1t64:arm64 1:5.45-3+b1 arm64
+libmagickcore-6.q16-7:arm64 8:6.9.12.98+dfsg1-5+b1 arm64
+libmagickcore-6.q16-7-extra:arm64 8:6.9.12.98+dfsg1-5+b1 arm64
+libmagickwand-6.q16-7:arm64 8:6.9.12.98+dfsg1-5+b1 arm64
+libmailtools-perl 2.21-3 all
+libmanette-0.2-0:arm64 0.2.9-1 arm64
+libmariadb3:arm64 1:11.4.3-1 arm64
+libmaven-parent-java 43-2 all
+libmaven-resolver-java 1.6.3-1 all
+libmaven-shared-utils-java 3.4.2-1 all
+libmaven3-core-java 3.8.8-1 all
+libmaxminddb0:arm64 1.11.0-1 arm64
+libmbedcrypto7t64:arm64 2.28.8-1 arm64
+libmbedtls14t64:arm64 2.28.8-1 arm64
+libmbedx509-1t64:arm64 2.28.8-1 arm64
+libmbim-glib4:arm64 1.30.0-1+b2 arm64
+libmbim-proxy 1.30.0-1+b2 arm64
+libmbim-utils 1.30.0-1+b2 arm64
+libmd0:arm64 1.1.0-2+b1 arm64
+libmd4c0:arm64 0.5.2-2+b1 arm64
+libmemcached11t64:arm64 1.1.4-1.1+b2 arm64
+libmime-charset-perl 1.013.1-2 all
+libminiupnpc17:arm64 2.2.6-1 arm64
+libminiupnpc18:arm64 2.2.8-2+b1 arm64
+libminizip1t64:arm64 1:1.3.dfsg+really1.3.1-1+b1 arm64
+libminlog-java 1.3.1-1 all
+libmjpegutils-2.1-0t64:arm64 1:2.1.0+debian-8.1+b1 arm64
+libmm-glib0:arm64 1.22.0-3+b2 arm64
+libmnl0:arm64 1.0.5-3 arm64
+libmodplug1:arm64 1:0.8.9.0-3+b2 arm64
+libmongoc-1.0-0t64 1.28.1-1 arm64
+libmongocrypt0:arm64 1.11.0-1 arm64
+libmongodb-java 3.6.3-2 all
+libmount1:arm64 2.40.2-9 arm64
+libmousepad0:arm64 0.6.3-1 arm64
+libmp3lame0:arm64 3.100-6+b3 arm64
+libmpc3:arm64 1.3.1-1+b3 arm64
+libmpcdec6:arm64 2:0.1~r495-2+b1 arm64
+libmpeg2encpp-2.1-0t64:arm64 1:2.1.0+debian-8.1+b1 arm64
+libmpfr6:arm64 4.2.1-1+b2 arm64
+libmpg123-0t64:arm64 1.32.8-1 arm64
+libmplex2-2.1-0t64:arm64 1:2.1.0+debian-8.1+b1 arm64
+libmsgraph-0-1:arm64 0.2.3-2 arm64
+libmtdev1t64:arm64 1.1.6-1.2+b1 arm64
+libmtp-common 1.1.21-4 all
+libmtp-runtime 1.1.21-4 arm64
+libmtp9t64:arm64 1.1.21-4 arm64
+libmultiverse-core-java 0.7.0-6 all
+libmysofa1:arm64 1.3.3+dfsg-1 arm64
+libnative-platform-java 0.14-6 all
+libnative-platform-jni 0.14-6+b1 arm64
+libncurses-dev:arm64 6.5-2+b1 arm64
+libncurses6:arm64 6.5-2+b1 arm64
+libncursesw6:arm64 6.5-2+b1 arm64
+libndp0:arm64 1.9-1+b1 arm64
+libnekohtml-java 1.9.22.noko2-0.1 all
+libneon27t64:arm64 0.33.0-1.1+b2 arm64
+libnet-dbus-perl 1.2.0-2+b3 arm64
+libnet-dns-perl 1.48-1 all
+libnet-dns-sec-perl 1.26-1+b1 arm64
+libnet-http-perl 6.23-1 all
+libnet-ip-perl 1.26-4 all
+libnet-libidn2-perl 1.02-1+b3 arm64
+libnet-netmask-perl 2.0002-2 all
+libnet-smtp-ssl-perl 1.04-2 all
+libnet-ssleay-perl:arm64 1.94-2 arm64
+libnet-whois-ip-perl 1.19-3 all
+libnet1:arm64 1.3+dfsg-0.1 arm64
+libnetfilter-conntrack3:arm64 1.1.0-1 arm64
+libnetfilter-queue1:arm64 1.0.5-4+b1 arm64
+libnetpbm11:arm64 2:11.05.02-1 arm64
+libnettle8t64:arm64 3.10-1+b1 arm64
+libnewlib-arm-none-eabi 4.4.0.20231231-4 all
+libnewlib-dev 4.4.0.20231231-4 all
+libnewt0.52:arm64 0.52.24-2 arm64
+libnfc6:arm64 1.8.0-3.1+b1 arm64
+libnfnetlink0:arm64 1.0.2-3 arm64
+libnfs14:arm64 5.0.2-1+b2 arm64
+libnftables1:arm64 1.1.1-1 arm64
+libnftnl11:arm64 1.2.8-1 arm64
+libnghttp2-14:arm64 1.64.0-1 arm64
+libnghttp2-dev:arm64 1.64.0-1 arm64
+libnghttp3-3:arm64 0.8.0-2+b1 arm64
+libnghttp3-9:arm64 1.4.0-1+b1 arm64
+libngtcp2-16:arm64 1.6.0-1 arm64
+libngtcp2-crypto-gnutls8:arm64 1.6.0-1 arm64
+libnice10:arm64 0.1.21-2+b2 arm64
+libnids1.21t64:arm64 1.26-2.1+b2 arm64
+libnl-3-200:arm64 3.7.0-0.3+b1 arm64
+libnl-genl-3-200:arm64 3.7.0-0.3+b1 arm64
+libnl-route-3-200:arm64 3.7.0-0.3+b1 arm64
+libnm0:arm64 1.50.0-1 arm64
+libnma-common 1.10.6-5 all
+libnma-gtk4-0:arm64 1.10.6-5 arm64
+libnma0:arm64 1.10.6-5 arm64
+libnode109:arm64 18.20.1+dfsg-4+b2 arm64
+libnorm1t64:arm64 1.5.9+dfsg-3.1+b1 arm64
+libnotify-bin 0.8.3-1+b2 arm64
+libnotify4:arm64 0.8.3-1+b2 arm64
+libnpth0t64:arm64 1.6-3.1+b1 arm64
+libnsl2:arm64 1.3.0-3+b3 arm64
+libnspr4:arm64 2:4.35-1.1+b1 arm64
+libnss-mdns:arm64 0.15.1-4+b1 arm64
+libnss3:arm64 2:3.105-2 arm64
+libntfs-3g89:arm64 1:2022.10.3-1+b1 arm64
+libntlm0:arm64 1.8-3+b1 arm64
+libnuma1:arm64 2.0.18-1+b1 arm64
+libnvme1 1.7.1-1 arm64
+libobjc-13-dev:arm64 13.3.0-8 arm64
+libobjc-14-dev:arm64 14.2.0-8 arm64
+libobjc4:arm64 14.2.0-8 arm64
+libobjenesis-java 3.3-3 all
+libogg0:arm64 1.3.5-3+b2 arm64
+libonig5:arm64 6.9.9-1+b1 arm64
+liboobs-1-5:arm64 3.0.0-4+b4 arm64
+libopenal-data 1:1.23.1-4 all
+libopenal1:arm64 1:1.23.1-4+b2 arm64
+libopenblas0-pthread:arm64 0.3.28+ds-3 arm64
+libopenconnect5:arm64 9.12-3 arm64
+libopencore-amrnb0:arm64 0.1.6-1+b2 arm64
+libopencore-amrwb0:arm64 0.1.6-1+b2 arm64
+libopenexr-3-1-30:arm64 3.1.5-5.1+b3 arm64
+libopenfec1:arm64 1.4.2.11+dfsg-1 arm64
+libopengl-dev:arm64 1.7.0-1+b2 arm64
+libopengl0:arm64 1.7.0-1+b2 arm64
+libopenh264-7:arm64 2.4.1+dfsg-1 arm64
+libopenjp2-7:arm64 2.5.0-2+b4 arm64
+libopenmpt0t64:arm64 0.7.9-1 arm64
+libopenni2-0:arm64 2.2.0.33+dfsg-18+b1 arm64
+libopus0:arm64 1.5.2-2 arm64
+libopusfile0:arm64 0.12-4+b3 arm64
+liborc-0.4-0t64:arm64 1:0.4.40-1 arm64
+libosgi-annotation-java 8.1.0-1 all
+libosgi-compendium-java 7.0.0-1 all
+libosgi-core-java 8.0.0-2 all
+libp11-kit-dev:arm64 0.25.5-2+b1 arm64
+libp11-kit0:arm64 0.25.5-2+b1 arm64
+libpackagekit-glib2-18:arm64 1.3.0-2 arm64
+libpam-gnome-keyring:arm64 46.2-1 arm64
+libpam-modules:arm64 1.5.3-7+b1 arm64
+libpam-modules-bin 1.5.3-7+b1 arm64
+libpam-runtime 1.5.3-7 all
+libpam-systemd:arm64 256.6-1 arm64
+libpam0g:arm64 1.5.3-7+b1 arm64
+libpango-1.0-0:arm64 1.54.0+ds-3 arm64
+libpangocairo-1.0-0:arm64 1.54.0+ds-3 arm64
+libpangoft2-1.0-0:arm64 1.54.0+ds-3 arm64
+libpangomm-2.48-1t64:arm64 2.54.0-1 arm64
+libpangoxft-1.0-0:arm64 1.54.0+ds-3 arm64
+libpaper-utils 1.1.29+b2 arm64
+libpaper1:arm64 1.1.29+b2 arm64
+libparted2:arm64 3.6-3 arm64
+libpcap0.8t64:arm64 1.10.5-1 arm64
+libpcaudio0:arm64 1.2-2+b3 arm64
+libpci3:arm64 1:3.13.0-1 arm64
+libpciaccess0:arm64 0.17-3+b2 arm64
+libpcre2-16-0:arm64 10.42-4+b2 arm64
+libpcre2-8-0:arm64 10.42-4+b2 arm64
+libpcre3:arm64 2:8.39-15.1 arm64
+libpcsclite1:arm64 2.3.0-3 arm64
+libperl4-corelibs-perl 0.005-1 all
+libperl5.38t64:arm64 5.38.2-5 arm64
+libperl5.40:arm64 5.40.0-7 arm64
+libpfm4:arm64 4.13.0+git83-g91970fe-1 arm64
+libpgm-5.3-0t64:arm64 5.3.128~dfsg-2.1+b1 arm64
+libpipeline1:arm64 1.5.8-1 arm64
+libpipewire-0.3-0t64:arm64 1.2.6-1 arm64
+libpipewire-0.3-common 1.2.6-1 all
+libpipewire-0.3-modules:arm64 1.2.6-1 arm64
+libpixman-1-0:arm64 0.42.2-1+b1 arm64
+libpkcs11-helper1t64:arm64 1.30.0-1+b1 arm64
+libpkgconf3:arm64 1.8.1-4 arm64
+libplacebo338:arm64 6.338.2-2 arm64
+libplacebo349:arm64 7.349.0-2 arm64
+libplexus-cipher-java 2.0-1 all
+libplexus-classworlds-java 2.7.0-1 all
+libplexus-component-annotations-java 2.1.1-1 all
+libplexus-container-default-java 2.1.1-1 all
+libplexus-interpolation-java 1.27-1 all
+libplexus-sec-dispatcher-java 2.0-3 all
+libplexus-utils2-java 3.4.2-1 all
+libplist-2.0-4:arm64 2.6.0-2 arm64
+libplist3:arm64 2.2.0-7+b1 arm64
+libplymouth5:arm64 24.004.60-2+b1 arm64
+libpng16-16t64:arm64 1.6.44-2 arm64
+libpocketsphinx3:arm64 0.8+5prealpha+1-15+b4 arm64
+libpocl2-common 6.0-2 all
+libpocl2t64:arm64 6.0-2 arm64
+libpolkit-agent-1-0:arm64 125-2+kali1 arm64
+libpolkit-gobject-1-0:arm64 125-2+kali1 arm64
+libpolyglot-maven-java 0.8~tobrien+git20120905-10 all
+libpoppler-glib8t64:arm64 24.08.0-3 arm64
+libpoppler134:arm64 24.02.0-5 arm64
+libpoppler140:arm64 24.08.0-3 arm64
+libpopt0:arm64 1.19+dfsg-2 arm64
+libportaudio2:arm64 19.6.0-1.2+b3 arm64
+libportmidi0:arm64 1:217-6.1+b3 arm64
+libpostproc57:arm64 7:6.1.1-5+b1 arm64
+libpostproc58:arm64 7:7.1-3 arm64
+libpq5:arm64 17.0-1+b2 arm64
+libproc2-0:arm64 2:4.0.4-6 arm64
+libprotobuf-c1:arm64 1.4.1-1+b3 arm64
+libprotobuf32:arm64 3.21.12-8+b1 arm64
+libproxy1v5:arm64 0.5.9-1 arm64
+libpskc0t64:arm64 2.6.12-1 arm64
+libpsl-dev:arm64 0.21.2-1.1+b1 arm64
+libpsl5t64:arm64 0.21.2-1.1+b1 arm64
+libpulse-mainloop-glib0:arm64 16.1+dfsg1-5.1+b1 arm64
+libpulse0:arm64 16.1+dfsg1-5.1+b1 arm64
+libpulsedsp:arm64 16.1+dfsg1-5.1+b1 arm64
+libpwquality-common 1.4.5-3 all
+libpwquality1:arm64 1.4.5-3+b2 arm64
+libpython2.7-minimal:arm64 2.7.18-13.2 arm64
+libpython2.7-stdlib:arm64 2.7.18-13.2 arm64
+libpython3-dev:arm64 3.12.6-1 arm64
+libpython3-stdlib:arm64 3.12.6-1 arm64
+libpython3.11-dev:arm64 3.11.9-1 arm64
+libpython3.11-minimal:arm64 3.11.9-1 arm64
+libpython3.11-stdlib:arm64 3.11.9-1 arm64
+libpython3.11t64:arm64 3.11.9-1 arm64
+libpython3.12-dev:arm64 3.12.9-1 arm64
+libpython3.12-minimal:arm64 3.12.9-1 arm64
+libpython3.12-stdlib:arm64 3.12.9-1 arm64
+libpython3.12t64:arm64 3.12.9-1 arm64
+libqdox-java 1.12.1-4 all
+libqhull-r8.0:arm64 2020.2-6+b2 arm64
+libqmi-glib5:arm64 1.34.0-2+b2 arm64
+libqmi-proxy 1.34.0-2+b2 arm64
+libqmi-utils 1.34.0-2+b2 arm64
+libqrencode4:arm64 4.1.1-1+b3 arm64
+libqrtr-glib0:arm64 1.2.2-1+b2 arm64
+libqt5core5t64:arm64 5.15.15+dfsg-2 arm64
+libqt5ct-common1.8 1.8-2+b1 arm64
+libqt5dbus5t64:arm64 5.15.15+dfsg-2 arm64
+libqt5designer5:arm64 5.15.15-2 arm64
+libqt5gui5t64:arm64 5.15.15+dfsg-2 arm64
+libqt5help5:arm64 5.15.15-2 arm64
+libqt5network5t64:arm64 5.15.15+dfsg-2 arm64
+libqt5opengl5t64:arm64 5.15.15+dfsg-2 arm64
+libqt5printsupport5t64:arm64 5.15.15+dfsg-2 arm64
+libqt5qml5:arm64 5.15.15+dfsg-3 arm64
+libqt5qmlmodels5:arm64 5.15.15+dfsg-3 arm64
+libqt5quick5:arm64 5.15.15+dfsg-3 arm64
+libqt5sql5-sqlite:arm64 5.15.15+dfsg-2 arm64
+libqt5sql5t64:arm64 5.15.15+dfsg-2 arm64
+libqt5svg5:arm64 5.15.15-2 arm64
+libqt5test5t64:arm64 5.15.15+dfsg-2 arm64
+libqt5waylandclient5:arm64 5.15.15-2 arm64
+libqt5waylandcompositor5:arm64 5.15.15-2 arm64
+libqt5widgets5t64:arm64 5.15.15+dfsg-2 arm64
+libqt5x11extras5:arm64 5.15.15-2 arm64
+libqt5xml5t64:arm64 5.15.15+dfsg-2 arm64
+libqt6core5compat6:arm64 6.4.2-4+b2 arm64
+libqt6core6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6dbus6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6gui6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6multimedia6:arm64 6.4.2-11+b2 arm64
+libqt6network6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6opengl6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6openglwidgets6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6printsupport6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6qml6:arm64 6.4.2+dfsg-4+b2 arm64
+libqt6qmlmodels6:arm64 6.4.2+dfsg-4+b2 arm64
+libqt6quick6:arm64 6.4.2+dfsg-4+b2 arm64
+libqt6sql6-sqlite:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6sql6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6svg6:arm64 6.4.2-4+b2 arm64
+libqt6test6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6waylandclient6:arm64 6.4.2-5+b2 arm64
+libqt6waylandcompositor6:arm64 6.4.2-5+b2 arm64
+libqt6waylandeglclienthwintegration6:arm64 6.4.2-5+b2 arm64
+libqt6waylandeglcompositorhwintegration6:arm64 6.4.2-5+b2 arm64
+libqt6widgets6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqt6wlshellintegration6:arm64 6.4.2-5+b2 arm64
+libqt6xml6t64:arm64 6.4.2+dfsg-21.1+b1 arm64
+libqtermwidget5-1:arm64 1.4.0-2 arm64
+librabbitmq4:arm64 0.14.0-1 arm64
+libraptor2-0:arm64 2.0.16-4+b1 arm64
+libraqm0:arm64 0.10.1-1+b2 arm64
+librav1e0.7:arm64 0.7.1-7+b2 arm64
+libraw1394-11:arm64 2.1.2-2+b2 arm64
+libraw23:arm64 0.21.2-2 arm64
+libreadline-dev:arm64 8.2-5 arm64
+libreadline8t64:arm64 8.2-5 arm64
+libreflectasm-java 1.11.9+dfsg-4 all
+libreflectasm-java-doc 1.11.9+dfsg-4 all
+libregexp-assemble-perl 0.38-2 all
+libregexp-ipv6-perl 0.03-3 all
+librhino-java 1.7.14-2.1 all
+librist4:arm64 0.2.10+dfsg-2 arm64
+libroc0.4:arm64 0.4.0+dfsg-4+b1 arm64
+librsvg2-2:arm64 2.59.1+dfsg-1 arm64
+librsvg2-common:arm64 2.59.1+dfsg-1 arm64
+librtlsdr2:arm64 2.0.1-2 arm64
+librtmp-dev:arm64 2.4+20151223.gitfa8646d.1-2+b5 arm64
+librtmp1:arm64 2.4+20151223.gitfa8646d.1-2+b5 arm64
+librubberband2:arm64 3.3.0+dfsg-2+b3 arm64
+libruby:arm64 1:3.1 arm64
+libruby3.1:arm64 3.1.2-8 arm64
+libsamplerate0:arm64 0.2.2-4+b2 arm64
+libsane-common 1.3.0-1 all
+libsane1:arm64 1.3.0-1+b1 arm64
+libsasl2-2:arm64 2.1.28+dfsg1-8 arm64
+libsasl2-modules:arm64 2.1.28+dfsg1-8 arm64
+libsasl2-modules-db:arm64 2.1.28+dfsg1-8 arm64
+libsbc1:arm64 2.0-1+b2 arm64
+libsdl2-2.0-0:arm64 2.30.9+dfsg-1 arm64
+libsdl2-image-2.0-0:arm64 2.8.2+dfsg-1+b2 arm64
+libsdl2-mixer-2.0-0:arm64 2.8.0+dfsg-1+b3 arm64
+libsdl2-ttf-2.0-0:arm64 2.22.0+dfsg-1+b1 arm64
+libseccomp2:arm64 2.5.5-1+b3 arm64
+libsecret-1-0:arm64 0.21.4-3 arm64
+libsecret-common 0.21.4-3 all
+libselinux1:arm64 3.7-3+b1 arm64
+libsemanage-common 3.7-2 all
+libsemanage2:arm64 3.7-2+b1 arm64
+libsensors-config 1:3.6.0-10 all
+libsensors5:arm64 1:3.6.0-10+b1 arm64
+libsepol2:arm64 3.7-1 arm64
+libserd-0-0:arm64 0.32.2-1+b1 arm64
+libserf-1-1:arm64 1.3.10-3+b1 arm64
+libservlet-api-java 4.0.1-2 all
+libsframe1:arm64 2.43.1-5 arm64
+libsharpyuv0:arm64 1.4.0-0.1+b1 arm64
+libshine3:arm64 3.1.1-2+b2 arm64
+libshout3:arm64 2.4.6-1+b3 arm64
+libsigc++-2.0-0v5:arm64 2.12.1-2+b1 arm64
+libsigc++-3.0-0:arm64 3.6.0-2+b1 arm64
+libsigsegv2:arm64 2.14-1+b2 arm64
+libsimple-http-java 4.1.21-1.1 all
+libsisu-inject-java 0.3.4-2 all
+libsisu-plexus-java 0.3.4-3 all
+libslang2:arm64 2.3.3-5+b1 arm64
+libslf4j-java 1.7.32-1 all
+libsm-dev:arm64 2:1.2.4-1 arm64
+libsm6:arm64 2:1.2.4-1 arm64
+libsmartcols1:arm64 2.40.2-9 arm64
+libsmbclient0:arm64 2:4.21.1+dfsg-2kali1 arm64
+libsmi2ldbl:arm64 0.4.8+dfsg2-16 arm64
+libsmi2t64:arm64 0.4.8+dfsg2-17+b1 arm64
+libsnappy1v5:arm64 1.2.1-1+b1 arm64
+libsndfile1:arm64 1.2.2-1+b3 arm64
+libsndio7.0:arm64 1.10.0-0.1 arm64
+libsnmp-base 5.9.4+dfsg-1.1 all
+libsnmp40t64:arm64 5.9.4+dfsg-1.1+b2 arm64
+libsodium23:arm64 1.0.18-1+b2 arm64
+libsombok3:arm64 2.4.0-2+b2 arm64
+libsonic0:arm64 0.2.0-13+b1 arm64
+libsord-0-0:arm64 0.16.16-2+b2 arm64
+libsoundtouch1:arm64 2.3.3+ds-1+b1 arm64
+libsoup-2.4-1:arm64 2.74.3-8 arm64
+libsoup-3.0-0:arm64 3.6.0-3 arm64
+libsoup-3.0-common 3.6.0-3 all
+libsoup2.4-common 2.74.3-8 all
+libsox-fmt-alsa:arm64 14.4.2+git20190427-5+b1 arm64
+libsox-fmt-base:arm64 14.4.2+git20190427-5+b1 arm64
+libsox3:arm64 14.4.2+git20190427-5+b1 arm64
+libsoxr0:arm64 0.1.3-4+b2 arm64
+libspa-0.2-bluetooth:arm64 1.2.6-1 arm64
+libspa-0.2-modules:arm64 1.2.6-1 arm64
+libspandsp2t64:arm64 0.0.6+dfsg-2.1+b1 arm64
+libspectre1:arm64 0.2.12-1+b2 arm64
+libspeechd2:arm64 0.11.5-5.1 arm64
+libspeex1:arm64 1.2.1-3 arm64
+libspeexdsp1:arm64 1.2.1-1+b2 arm64
+libsphinxbase3t64:arm64 0.8+5prealpha+1-18+b1 arm64
+libsqlite3-0:arm64 3.46.1-1 arm64
+libsratom-0-0:arm64 0.6.16-1+b2 arm64
+libsrt1.5-gnutls:arm64 1.5.4-1 arm64
+libsrtp2-1:arm64 2.5.0-3+b2 arm64
+libss2:arm64 1.47.1-1+b1 arm64
+libssh-4:arm64 0.11.1-1 arm64
+libssh-gcrypt-4:arm64 0.10.6-3 arm64
+libssh2-1-dev:arm64 1.11.1-1 arm64
+libssh2-1t64:arm64 1.11.1-1 arm64
+libssl-dev:arm64 3.4.0-2 arm64
+libssl3t64:arm64 3.4.0-2 arm64
+libstartup-notification0:arm64 0.12-7 arm64
+libstd-rust-1.79:arm64 1.79.0+dfsg1-2 arm64
+libstd-rust-1.82:arm64 1.82.0+dfsg1-2 arm64
+libstd-rust-dev:arm64 1.82.0+dfsg1-2 arm64
+libstdc++-13-dev:arm64 13.3.0-8 arm64
+libstdc++-14-dev:arm64 14.2.0-8 arm64
+libstdc++-arm-none-eabi-dev 15:13.3.rel1-1+27 all
+libstdc++-arm-none-eabi-newlib 15:13.3.rel1-1+27 all
+libstdc++6:arm64 14.2.0-8 arm64
+libstemmer0d:arm64 2.2.0-4+b2 arm64
+libstoken1t64:arm64 0.92-1.1+b2 arm64
+libstring-random-perl 1:0.32-2 all
+libstrongswan 5.9.13-2+b2 arm64
+libstrongswan-standard-plugins 5.9.13-2+b2 arm64
+libsvn1:arm64 1.14.4-2+b1 arm64
+libsvtav1enc2:arm64 2.2.1+dfsg-2 arm64
+libswresample4:arm64 7:6.1.1-5+b1 arm64
+libswresample5:arm64 7:7.1-3 arm64
+libswscale7:arm64 7:6.1.1-5+b1 arm64
+libswscale8:arm64 7:7.1-3 arm64
+libsybdb5:arm64 1.3.17+ds-2+b4 arm64
+libsynctex2:arm64 2024.20240313.70630+ds-5 arm64
+libsystemd-shared:arm64 256.6-1 arm64
+libsystemd0:arm64 256.6-1 arm64
+libtag1v5:arm64 1.13.1-1+b2 arm64
+libtag1v5-vanilla:arm64 1.13.1-1+b2 arm64
+libtagc0:arm64 1.13.1-1+b2 arm64
+libtalloc2:arm64 2.4.2-1+b3 arm64
+libtasn1-6:arm64 4.19.0-3+b3 arm64
+libtasn1-6-dev:arm64 4.19.0-3+b3 arm64
+libtasn1-doc 4.19.0-3 all
+libtcl8.6:arm64 8.6.15+dfsg-2 arm64
+libtdb1:arm64 1.4.12-1 arm64
+libteamdctl0:arm64 1.31-1+b2 arm64
+libterm-readkey-perl 2.38-2+b4 arm64
+libtevent0t64:arm64 0.16.1-3 arm64
+libtext-charwidth-perl:arm64 0.04-11+b4 arm64
+libtext-iconv-perl:arm64 1.7-8+b4 arm64
+libtext-wrapi18n-perl 0.06-10 all
+libthai-data 0.1.29-2 all
+libthai0:arm64 0.1.29-2+b1 arm64
+libtheora0:arm64 1.1.1+dfsg.1-17 arm64
+libthunarx-3-0:arm64 4.18.11-1 arm64
+libtie-ixhash-perl 1.23-4 all
+libtiff6:arm64 4.5.1+git230720-5 arm64
+libtimedate-perl 2.3300-2 all
+libtinfo6:arm64 6.5-2+b1 arm64
+libtirpc-common 1.3.4+ds-1.3 all
+libtirpc3t64:arm64 1.3.4+ds-1.3+b1 arm64
+libtk8.6:arm64 8.6.15-1 arm64
+libtokyocabinet9t64:arm64 1.4.48-15.1+b1 arm64
+libtomcrypt1:arm64 1.18.2+dfsg-7+b2 arm64
+libtommath1:arm64 1.3.0-1 arm64
+libtool 2.4.7-8 all
+libtry-tiny-perl 0.32-1 all
+libts0:arm64 1.22-1+b1 arm64
+libts0t64:arm64 1.22-1.1+b1 arm64
+libtsan2:arm64 14.2.0-8 arm64
+libtsk19t64:arm64 4.12.1+dfsg-0kali6 arm64
+libtss2-esys-3.0.2-0t64:arm64 4.1.3-1.2 arm64
+libtss2-mu-4.0.1-0t64:arm64 4.1.3-1.2 arm64
+libtss2-sys1t64:arm64 4.1.3-1.2 arm64
+libtss2-tcti-cmd0t64:arm64 4.1.3-1.2 arm64
+libtss2-tcti-device0t64:arm64 4.1.3-1.2 arm64
+libtss2-tcti-libtpms0t64:arm64 4.1.3-1.2 arm64
+libtss2-tcti-mssim0t64:arm64 4.1.3-1.2 arm64
+libtss2-tcti-spi-helper0t64:arm64 4.1.3-1.2 arm64
+libtss2-tcti-swtpm0t64:arm64 4.1.3-1.2 arm64
+libtss2-tctildr0t64:arm64 4.1.3-1.2 arm64
+libtumbler-1-0t64:arm64 4.18.2-1 arm64
+libtwolame0:arm64 0.4.0-2+b2 arm64
+libtypes-serialiser-perl 1.01-1 all
+libubertooth1:arm64 2020.12.R1-0kali3 arm64
+libubsan1:arm64 14.2.0-8 arm64
+libuchardet0:arm64 0.0.8-1+b2 arm64
+libudev1:arm64 256.6-1 arm64
+libudfread0:arm64 1.1.2-1+b2 arm64
+libudisks2-0:arm64 2.10.1-11 arm64
+libunbound8:arm64 1.22.0-1 arm64
+libunibreak6:arm64 6.1-2+b1 arm64
+libunicode-linebreak-perl 0.0.20190101-1+b7 arm64
+libunistring5:arm64 1.2-1+b1 arm64
+libunwind-19:arm64 1:19.1.3-2 arm64
+libunwind8:arm64 1.6.2-3.1 arm64
+libupower-glib3:arm64 1.90.6-2 arm64
+liburcu8:arm64 0.14.0-3 arm64
+liburi-perl 5.30-1 all
+liburing2:arm64 2.8-1 arm64
+liburiparser1:arm64 0.9.8+dfsg-1+b1 arm64
+libusb-0.1-4:arm64 2:0.1.12-35+b1 arm64
+libusb-1.0-0:arm64 2:1.0.27-1 arm64
+libusbmuxd-2.0-7:arm64 2.1.0-1+b1 arm64
+libusbmuxd6:arm64 2.0.2-4+b1 arm64
+libutempter0:arm64 1.2.1-4 arm64
+libutf8proc3:arm64 2.9.0-1+b2 arm64
+libuuid1:arm64 2.40.2-9 arm64
+libuv1t64:arm64 1.48.0-7 arm64
+libv4l-0t64:arm64 1.28.1-1 arm64
+libv4lconvert0t64:arm64 1.28.1-1 arm64
+libva-drm2:arm64 2.22.0-1+b1 arm64
+libva-x11-2:arm64 2.22.0-1+b1 arm64
+libva2:arm64 2.22.0-1+b1 arm64
+libvdpau-va-gl1:arm64 0.4.2-2 arm64
+libvdpau1:arm64 1.5-3+b1 arm64
+libvhdi1:arm64 20240509-2 arm64
+libvidstab1.1:arm64 1.1.0-2+b2 arm64
+libvisual-0.4-0:arm64 0.4.2-2+b2 arm64
+libvmdk1:arm64 20200926-2+b5 arm64
+libvo-aacenc0:arm64 0.1.3-3 arm64
+libvo-amrwbenc0:arm64 0.1.3-2+b2 arm64
+libvolume-key1:arm64 0.3.12-8 arm64
+libvorbis0a:arm64 1.3.7-2+b1 arm64
+libvorbisenc2:arm64 1.3.7-2+b1 arm64
+libvorbisfile3:arm64 1.3.7-2+b1 arm64
+libvpx9:arm64 1.14.1-1+b1 arm64
+libvulkan1:arm64 1.3.296.0-1 arm64
+libwacom-common 2.13.0-1 all
+libwacom9:arm64 2.13.0-1 arm64
+libwagon-file-java 3.5.3-1 all
+libwagon-http-java 3.5.3-1 all
+libwagon-provider-api-java 3.5.3-1 all
+libwavpack1:arm64 5.7.0-1+b1 arm64
+libwayland-client0:arm64 1.23.0-1+b1 arm64
+libwayland-cursor0:arm64 1.23.0-1+b1 arm64
+libwayland-egl1:arm64 1.23.0-1+b1 arm64
+libwayland-server0:arm64 1.23.0-1+b1 arm64
+libwbclient0:arm64 2:4.21.1+dfsg-2kali1 arm64
+libwebkit2gtk-4.1-0:arm64 2.46.3-1 arm64
+libwebp7:arm64 1.4.0-0.1+b1 arm64
+libwebpdemux2:arm64 1.4.0-0.1+b1 arm64
+libwebpmux3:arm64 1.4.0-0.1+b1 arm64
+libwebrtc-audio-processing1:arm64 0.3-1+b2 arm64
+libwebsocket-api-java 1.1-2 all
+libwebsockets19:arm64 4.3.3-1 arm64
+libwhereami0:arm64 0.0~git20240120.c5f6b01-1+b1 arm64
+libwildmidi2:arm64 0.4.3-1+b3 arm64
+libwinpr2-2t64:arm64 2.11.7+dfsg1-4 arm64
+libwinpr3-3:arm64 3.6.3+dfsg1-2+b1 arm64
+libwireplumber-0.5-0:arm64 0.5.6-2 arm64
+libwireshark-data 4.4.0-1 all
+libwireshark17t64:arm64 4.2.5-1 arm64
+libwiretap14t64:arm64 4.2.5-1 arm64
+libwmflite-0.2-7:arm64 0.2.13-1.1+b3 arm64
+libwnck-3-0:arm64 43.1-1 arm64
+libwnck-3-common 43.1-1 all
+libwoff1:arm64 1.0.2-2+b2 arm64
+libwrap0:arm64 7.6.q-33+b1 arm64
+libwsutil15t64:arm64 4.2.5-1 arm64
+libwww-mechanize-perl 2.19-1 all
+libwww-perl 6.77-1 all
+libwww-robotrules-perl 6.02-1 all
+libx11-6:arm64 2:1.8.10-2 arm64
+libx11-data 2:1.8.10-2 all
+libx11-dev:arm64 2:1.8.10-2 arm64
+libx11-protocol-perl 0.56-9 all
+libx11-xcb1:arm64 2:1.8.10-2 arm64
+libx264-164:arm64 2:0.164.3108+git31e19f9-2 arm64
+libx265-209:arm64 3.6-3+b1 arm64
+libxau-dev:arm64 1:1.0.11-1 arm64
+libxau6:arm64 1:1.0.11-1 arm64
+libxaw7:arm64 2:1.0.16-1 arm64
+libxbean-reflect-java 4.5-9 all
+libxcb-damage0:arm64 1.17.0-2+b1 arm64
+libxcb-dri2-0:arm64 1.17.0-2+b1 arm64
+libxcb-dri3-0:arm64 1.17.0-2+b1 arm64
+libxcb-glx0:arm64 1.17.0-2+b1 arm64
+libxcb-icccm4:arm64 0.4.2-1 arm64
+libxcb-image0:arm64 0.4.0-2+b2 arm64
+libxcb-keysyms1:arm64 0.4.0-1+b3 arm64
+libxcb-present0:arm64 1.17.0-2+b1 arm64
+libxcb-randr0:arm64 1.17.0-2+b1 arm64
+libxcb-render-util0:arm64 0.3.9-1+b2 arm64
+libxcb-render0:arm64 1.17.0-2+b1 arm64
+libxcb-shape0:arm64 1.17.0-2+b1 arm64
+libxcb-shm0:arm64 1.17.0-2+b1 arm64
+libxcb-sync1:arm64 1.17.0-2+b1 arm64
+libxcb-util1:arm64 0.4.0-1+b2 arm64
+libxcb-xfixes0:arm64 1.17.0-2+b1 arm64
+libxcb-xinerama0:arm64 1.17.0-2+b1 arm64
+libxcb-xinput0:arm64 1.17.0-2+b1 arm64
+libxcb-xkb1:arm64 1.17.0-2+b1 arm64
+libxcb1:arm64 1.17.0-2+b1 arm64
+libxcb1-dev:arm64 1.17.0-2+b1 arm64
+libxcomposite1:arm64 1:0.4.6-1 arm64
+libxcursor1:arm64 1:1.2.2-1+b1 arm64
+libxcvt0:arm64 0.1.2-1+b2 arm64
+libxdamage1:arm64 1:1.1.6-1+b2 arm64
+libxdmcp-dev:arm64 1:1.1.2-3+b2 arm64
+libxdmcp6:arm64 1:1.1.2-3+b2 arm64
+libxdo3:arm64 1:3.20160805.1-5+b2 arm64
+libxerces2-java 2.12.2-1 all
+libxext-dev:arm64 2:1.3.4-1+b2 arm64
+libxext6:arm64 2:1.3.4-1+b2 arm64
+libxfce4panel-2.0-4 4.18.6-1 arm64
+libxfce4ui-2-0:arm64 4.18.6-1 arm64
+libxfce4ui-common 4.18.6-1 all
+libxfce4ui-utils 4.18.6-1 arm64
+libxfce4util-bin 4.18.2-1 arm64
+libxfce4util-common 4.18.2-1 all
+libxfce4util7:arm64 4.18.2-1 arm64
+libxfconf-0-3:arm64 4.18.3-2 arm64
+libxfixes3:arm64 1:6.0.0-2+b2 arm64
+libxfont2:arm64 1:2.0.6-1+b2 arm64
+libxft2:arm64 2.3.6-1+b2 arm64
+libxi6:arm64 2:1.8.2-1 arm64
+libxinerama1:arm64 2:1.1.4-3+b2 arm64
+libxkbcommon-x11-0:arm64 1.6.0-1+b2 arm64
+libxkbcommon0:arm64 1.6.0-1+b2 arm64
+libxkbfile1:arm64 1:1.1.0-1+b2 arm64
+libxklavier16:arm64 5.4-5+b2 arm64
+libxml++2.6-2v5:arm64 2.42.3-1+b2 arm64
+libxml-commons-external-java 1.4.01-6 all
+libxml-commons-resolver1.1-java 1.2-11 all
+libxml-parser-perl 2.47-1+b3 arm64
+libxml-twig-perl 1:3.52-3 all
+libxml-writer-perl 0.900-2 all
+libxml-xpathengine-perl 0.14-2 all
+libxml2:arm64 2.12.7+dfsg+really2.9.14-0.2+b1 arm64
+libxml2-dev:arm64 2.12.7+dfsg+really2.9.14-0.2+b1 arm64
+libxml2-utils 2.12.7+dfsg+really2.9.14-0.2+b1 arm64
+libxmlb2:arm64 0.3.21-1 arm64
+libxmlsec1t64:arm64 1.2.41-1+b1 arm64
+libxmlsec1t64-openssl:arm64 1.2.41-1+b1 arm64
+libxmu6:arm64 2:1.1.3-3+b3 arm64
+libxmuu1:arm64 2:1.1.3-3+b3 arm64
+libxnvctrl0:arm64 535.171.04-1+b1 arm64
+libxpm4:arm64 1:3.5.17-1+b2 arm64
+libxpp3-java 1.1.4c-3 all
+libxpresent1:arm64 1.0.1-1+b1 arm64
+libxrandr2:arm64 2:1.5.4-1+b1 arm64
+libxrender1:arm64 1:0.9.10-1.1+b2 arm64
+libxres1:arm64 2:1.2.1-1+b2 arm64
+libxshmfence1:arm64 1.3-1+b2 arm64
+libxslt1.1:arm64 1.1.35-1.1+b1 arm64
+libxss1:arm64 1:1.2.3-1+b2 arm64
+libxstream-java 1.4.20-2 all
+libxt-dev:arm64 1:1.2.1-1.2+b1 arm64
+libxt6t64:arm64 1:1.2.1-1.2+b1 arm64
+libxtables12:arm64 1.8.10-4+b1 arm64
+libxtst6:arm64 2:1.2.3-1.1+b2 arm64
+libxv1:arm64 2:1.0.11-1.1+b2 arm64
+libxvidcore4:arm64 2:1.3.7-1+b2 arm64
+libxxf86dga1:arm64 2:1.1.5-1+b2 arm64
+libxxf86vm1:arm64 1:1.1.4-1+b3 arm64
+libxxhash0:arm64 0.8.2-2+b2 arm64
+libxz-java 1.9-1 all
+libyajl2:arm64 2.1.0-5+b2 arm64
+libyaml-0-2:arm64 0.2.5-1+b2 arm64
+libyaml-snake-java 1.33-2 all
+libyelp0:arm64 42.2-1+b3 arm64
+libyuv0:arm64 0.0.1888.20241107-1 arm64
+libz3-4:arm64 4.13.3-1 arm64
+libz3-dev:arm64 4.13.3-1 arm64
+libzbar0t64:arm64 0.23.93-5+b1 arm64
+libzimg2:arm64 3.0.5+ds1-1+b2 arm64
+libzix-0-0:arm64 0.4.2-2+b2 arm64
+libzmq5:arm64 4.3.5-1+b3 arm64
+libzstd-dev:arm64 1.5.6+dfsg-1+b1 arm64
+libzstd1:arm64 1.5.6+dfsg-1+b1 arm64
+libzvbi-common 0.2.42-2 all
+libzvbi0t64:arm64 0.2.42-2 arm64
+libzxing3:arm64 2.2.1-3+b2 arm64
+light-locker 1.8.0-3+b2 arm64
+lightdm 1.32.0-6+b1 arm64
+lightdm-gtk-greeter 2.0.9-1+b1 arm64
+lightdm-gtk-greeter-settings 1.2.3-1 all
+linux-base 4.10.1 all
+linux-libc-dev 6.11.2-1kali1 all
+linux-sysctl-defaults 4.10.1 all
+lld-17 1:17.0.6-18 arm64
+lld-19 1:19.1.3-2 arm64
+llvm-17 1:17.0.6-18 arm64
+llvm-17-dev 1:17.0.6-18 arm64
+llvm-17-linker-tools 1:17.0.6-18 arm64
+llvm-17-runtime 1:17.0.6-18 arm64
+llvm-17-tools 1:17.0.6-18 arm64
+llvm-19 1:19.1.3-2 arm64
+llvm-19-dev 1:19.1.3-2 arm64
+llvm-19-linker-tools 1:19.1.3-2 arm64
+llvm-19-runtime 1:19.1.3-2 arm64
+llvm-19-tools 1:19.1.3-2 arm64
+lm-sensors 1:3.6.0-10+b1 arm64
+locales 2.40-3 all
+locales-all 2.40-3 arm64
+login 1:4.16.0-2+really2.40.2-9 arm64
+login.defs 1:4.16.0-4 all
+logrotate 3.22.0-1+b1 arm64
+logsave 1.47.1-1+b1 arm64
+ls5 0.1.0 all
+lsb-release 12.1-1 all
+lsof 4.95.0-1.1+b1 arm64
+luit 2.0.20240910-1+b1 arm64
+m4 1.4.19-4 arm64
+macchanger 1.7.0-6 arm64
+mailcap 3.72 all
+make 4.3-4.1+b1 arm64
+maltego 4.7.0-0kali1 all
+man-db 2.13.0-1 arm64
+manpages 6.8-2 all
+manpages-dev 6.8-2 all
+mariadb-client 1:11.4.3-1 arm64
+mariadb-client-core 1:11.4.3-1 arm64
+mariadb-common 1:11.4.3-1 all
+mariadb-plugin-provider-bzip2 1:11.4.3-1 arm64
+mariadb-plugin-provider-lz4 1:11.4.3-1 arm64
+mariadb-plugin-provider-lzma 1:11.4.3-1 arm64
+mariadb-plugin-provider-lzo 1:11.4.3-1 arm64
+mariadb-plugin-provider-snappy 1:11.4.3-1 arm64
+mariadb-server 1:11.4.3-1 arm64
+mariadb-server-compat 1:11.4.3-1 all
+mariadb-server-core 1:11.4.3-1 arm64
+masscan 2:1.3.2+ds1-2 arm64
+mate-calc 1.26.0-1+b2 arm64
+mate-calc-common 1.26.0-1 all
+mate-polkit 1.26.1-4+b2 arm64
+mate-polkit-common 1.26.1-4 all
+mawk 1.3.4.20240905-1 arm64
+mc 3:4.8.31-1+b1 arm64
+mc-data 3:4.8.31-1 all
+mdk3 6.0-9 arm64
+media-types 10.1.0 all
+mesa-libgallium:arm64 24.2.6-1 arm64
+mesa-va-drivers:arm64 24.2.6-1 arm64
+mesa-vdpau-drivers:arm64 24.2.6-1 arm64
+mesa-vulkan-drivers:arm64 24.2.6-1 arm64
+metasploit-framework 6.3.55-0kali2 arm64
+mfoc 0.10.7+git20180724-2+b1 arm64
+mingw-w64-common 12.0.0-3 all
+mingw-w64-i686-dev 12.0.0-3 all
+mingw-w64-x86-64-dev 12.0.0-3 all
+miniupnpc 2.2.8-2+b1 arm64
+mitm6 0.3.0-0kali1 all
+mitmproxy 11.0.0-0kali2 all
+mobile-broadband-provider-info 20240407-1 all
+modemmanager 1.22.0-3+b2 arm64
+mount 2.40.2-9 arm64
+mousepad 0.6.3-1 arm64
+msfpc 1.4.5-0kali3 arm64
+mtd-utils 1:2.2.0-2+b1 arm64
+mutt 2.2.13-1 arm64
+mysql-common 5.8+1.1.1 all
+nano 8.2-1 arm64
+nasm 2.16.03-1 arm64
+ncompress 5.0-2+b1 arm64
+ncurses-base 6.5-2 all
+ncurses-bin 6.5-2+b1 arm64
+ncurses-term 6.5-2 all
+net-tools 2.10-1.1+b1 arm64
+netbase 6.4 all
+netcat-traditional 1.10-48.2 arm64
+netdiscover 0.10-3+b2 arm64
+nethunter-utils 1.6-0kali1 arm64
+netpbm 2:11.05.02-1 arm64
+nettle-dev:arm64 3.10-1+b1 arm64
+network-manager 1.50.0-1 arm64
+network-manager-fortisslvpn 1.4.0-1 arm64
+network-manager-gnome 1.36.0-1+b1 arm64
+network-manager-l2tp 1.20.16-1+b1 arm64
+network-manager-l2tp-gnome 1.20.16-1+b1 arm64
+network-manager-openconnect 1.2.10-3+b2 arm64
+network-manager-openconnect-gnome 1.2.10-3+b2 arm64
+network-manager-openvpn 1.12.0-2 arm64
+network-manager-openvpn-gnome 1.12.0-2 arm64
+network-manager-pptp 1.2.12-4 arm64
+network-manager-pptp-gnome 1.2.12-4 arm64
+network-manager-vpnc 1.2.8-8 arm64
+network-manager-vpnc-gnome 1.2.8-8 arm64
+nftables 1.1.1-1 arm64
+nginx 1.26.0-3+b1 arm64
+nginx-common 1.26.0-3 all
+nikto 1:2.5.0+git20230114.90ff645-0kali1 all
+nishang 0.7.6+git20210724.414ee11-0kali1 all
+nmap 7.94+git20230807.3be01efb1+dfsg-4kali3 arm64
+nmap-common 7.94+git20230807.3be01efb1+dfsg-4kali3 all
+node-acorn 8.8.1+ds+~cs25.17.7-2 all
+node-agent-base 7.1.1~0~2024040606-4 all
+node-cjs-module-lexer 1.2.3+dfsg-1 all
+node-commander 9.4.1-1 all
+node-debug 4.3.4+~cs4.1.7-1 all
+node-https-proxy-agent 7.0.4~0~2024040606-4 all
+node-ms 2.1.3+~cs0.7.31-3 all
+node-mute-stream 0.0.8+~0.0.1-3 all
+node-normalize.css 8.0.1-5 all
+node-read 1.0.7-5 all
+node-undici 5.28.4+dfsg1+~cs23.12.11-2 all
+node-ws 8.18.0+~cs13.7.11-1 all
+node-xtend 4.0.2-3 all
+nodejs 18.20.1+dfsg-4+b2 arm64
+nodejs-doc 20.18.0+dfsg-2 all
+ntfs-3g 1:2022.10.3-1+b1 arm64
+ntpdate 1:4.2.8p15+dfsg-2~1.2.3+dfsg1-3 all
+ntpsec-ntpdate 1.2.3+dfsg1-3+b1 arm64
+ntpsec-ntpdig 1.2.3+dfsg1-3+b1 arm64
+nuclei 3.3.5-0kali1 arm64
+ocl-icd-libopencl1:arm64 2.3.2-1+b2 arm64
+onboard 1.4.1-9 arm64
+onboard-common 1.4.1-9 all
+onboard-data 1.4.1-9 all
+onesixtyone 0.3.4-1+b1 arm64
+openconnect 9.12-3 arm64
+openfortivpn 1.21.0-2 arm64
+openjdk-11-jdk:arm64 11.0.25~5ea-1 arm64
+openjdk-11-jdk-headless:arm64 11.0.25~5ea-1 arm64
+openjdk-11-jre:arm64 11.0.25~5ea-1 arm64
+openjdk-11-jre-headless:arm64 11.0.25~5ea-1 arm64
+openjdk-21-jre:arm64 21.0.5+11-1 arm64
+openjdk-21-jre-headless:arm64 21.0.5+11-1 arm64
+openjdk-23-jre:arm64 23.0.1+11-1 arm64
+openjdk-23-jre-headless:arm64 23.0.1+11-1 arm64
+opensc 0.25.1-2 arm64
+opensc-pkcs11:arm64 0.25.1-2 arm64
+openssh-client 1:9.9p1-3 arm64
+openssh-client-gssapi 1:9.9p1-3 all
+openssh-client-ssh1 1:7.5p1-17+b1 arm64
+openssh-server 1:9.9p1-3 arm64
+openssh-sftp-server 1:9.9p1-3 arm64
+openssl 3.4.0-2 arm64
+openssl-provider-legacy 3.4.0-2 arm64
+openvpn 2.6.12-1+b1 arm64
+orca 47.1-1 all
+osslsigncode 2.9-2 arm64
+p0f 3.09b-4+b1 arm64
+p11-kit 0.25.5-2+b1 arm64
+p11-kit-modules:arm64 0.25.5-2+b1 arm64
+parole 4.18.1-1+b3 arm64
+parted 3.6-3 arm64
+passwd 1:4.16.0-4 arm64
+patch 2.7.6-7+b1 arm64
+pavucontrol 6.0-1+b1 arm64
+pci.ids 0.0~2024.10.24-1 all
+pciutils 1:3.13.0-1 arm64
+pcscd 2.3.0-3 arm64
+perl 5.40.0-7 arm64
+perl-base 5.40.0-7 arm64
+perl-modules-5.38 5.38.2-5 all
+perl-modules-5.40 5.40.0-7 all
+perl-openssl-defaults:arm64 7+b2 arm64
+perl-tk 1:804.036+dfsg1-3+b1 arm64
+php 2:8.2+93+nmu1 all
+php-common 2:93+nmu1 all
+php8.2 8.2.24-1 all
+php8.2-cli 8.2.24-1+b1 arm64
+php8.2-common 8.2.24-1+b1 arm64
+php8.2-opcache 8.2.24-1+b1 arm64
+php8.2-readline 8.2.24-1+b1 arm64
+pinentry-curses 1.2.1-4+b1 arm64
+pinentry-gnome3 1.2.1-4+b1 arm64
+pipewire:arm64 1.2.6-1 arm64
+pipewire-bin 1.2.6-1 arm64
+pipewire-pulse 1.2.6-1 arm64
+pixiewps 1.4.2-5+b1 arm64
+pkexec 125-2+kali1 arm64
+pkg-config:arm64 1.8.1-4 arm64
+pkgconf:arm64 1.8.1-4 arm64
+pkgconf-bin 1.8.1-4 arm64
+plocate 1.1.22-3+b1 arm64
+plymouth 24.004.60-2+b1 arm64
+plymouth-label 24.004.60-2+b1 arm64
+pocketsphinx-en-us 0.8+5prealpha+1-15 all
+pocl-opencl-icd:arm64 6.0-2 arm64
+policycoreutils 3.7-2 arm64
+policykit-1 124-2+kali1 arm64
+policykit-1-gnome 0.105-8+b2 arm64
+polkitd 125-2+kali1 arm64
+poppler-data 0.4.12-1 all
+poppler-utils 24.08.0-3 arm64
+postgresql 17+264 all
+postgresql-16 16.2-1 arm64
+postgresql-17 17.0-1+b2 arm64
+postgresql-client-16 16.4-3+b1 arm64
+postgresql-client-17 17.0-1+b2 arm64
+postgresql-client-common 264 all
+postgresql-common 264 all
+powershell-empire 5.4.2-0kali5 all
+ppp 2.5.0-1+2+b1 arm64
+pptp-linux 1.10.0-1+b1 arm64
+procps 2:4.0.4-6 arm64
+proxmark3 4.18994-0kali2 arm64
+proxmark3-common 4.18994-0kali2 all
+proxmark3-firmwares 4.18994-0kali2 all
+psmisc 23.7-1+b1 arm64
+ptunnel 0.72-3+b2 arm64
+publicsuffix 20231001.0357-0.1 all
+pulseaudio 16.1+dfsg1-5.1+b1 arm64
+pulseaudio-utils 16.1+dfsg1-5.1+b1 arm64
+pv 1.9.0-1 arm64
+pyqt5-dev-tools 5.15.11+dfsg-1+b2 arm64
+pyqt6-dev-tools 6.7.0-1 all
+python-apt-common 2.9.0 all
+python-babel-localedata 2.14.0-1 all
+python-matplotlib-data 3.8.3-3 all
+python2.7 2.7.18-13.2 arm64
+python2.7-minimal 2.7.18-13.2 arm64
+python3 3.12.6-1 arm64
+python3-aiofiles 24.1.0-1 all
+python3-aioquic 1.2.0-1+b1 arm64
+python3-all 3.12.6-1 arm64
+python3-altgraph 0.17.4+ds-1 all
+python3-aniso8601 9.0.1-3 all
+python3-annotated-types 0.7.0-1 all
+python3-anyio 4.6.2-4 all
+python3-appdirs 1.4.4-4 all
+python3-apt 2.9.0+b3 arm64
+python3-argcomplete 3.5.1-1 all
+python3-asgiref 3.8.1-1 all
+python3-asn1crypto 1.5.1-3 all
+python3-asttokens 2.4.1-2 all
+python3-async-timeout 4.0.3-1 all
+python3-attr 23.2.0-2 all
+python3-autocommand 2.2.2-3 all
+python3-automat 24.8.1-1 all
+python3-awscrt 0.20.4+dfsg-1+b2 arm64
+python3-babel 2.14.0-1 all
+python3-bcrypt 4.1.2-1 arm64
+python3-bidict 0.23.1-2 all
+python3-binwalk 2.4.3+dfsg1-1 all
+python3-blinker 1.8.2-1 all
+python3-bluepy 1.3.0-0kali1+b1 arm64
+python3-boto3 1.36.0+dfsg-1 all
+python3-botocore 1.36.9+repack-1 all
+python3-brlapi:arm64 6.7-1+b1 arm64
+python3-brotli 1.1.0-2+b6 arm64
+python3-bs4 4.12.3-3 all
+python3-cairo 1.26.1-2+b1 arm64
+python3-capstone 4.0.2-5.1+b1 arm64
+python3-certifi 2024.8.30+dfsg-1 all
+python3-cffi 1.17.1-2 all
+python3-cffi-backend:arm64 1.17.1-2+b1 arm64
+python3-chardet 5.2.0+dfsg-1 all
+python3-charset-normalizer 3.4.0-1+b1 arm64
+python3-click 8.1.7-2 all
+python3-click-plugins 1.1.1-4 all
+python3-colorama 0.4.6-4 all
+python3-constantly 23.10.4-2 all
+python3-contourpy 1.3.0-2+b1 arm64
+python3-cryptography 43.0.0-1 arm64
+python3-cssselect 1.2.0-4 all
+python3-cups:arm64 2.0.4-2+b1 arm64
+python3-cupshelpers 1.5.18-3 all
+python3-cycler 0.12.1-1 all
+python3-dateutil 2.9.0-3 all
+python3-dbus 1.3.2-5+b5 arm64
+python3-decorator 5.1.1-5 all
+python3-defusedxml 0.7.1-2 all
+python3-deprecated 1.2.15-1 all
+python3-dev 3.12.6-1 arm64
+python3-dicttoxml 1.7.16-2 all
+python3-distro 1.9.0-1 all
+python3-dnspython 2.6.1-1 all
+python3-docopt 0.6.2-6 all
+python3-docutils 0.21.2+dfsg-2 all
+python3-donut 0.9.3+git20220530.e75bdcd-0kali2+b2 arm64
+python3-dotenv 1.0.1-1 all
+python3-ecdsa 0.19.0-2 all
+python3-email-validator 2.2.0-1 all
+python3-engineio 4.9.0-2 all
+python3-executing 2.1.0-0.1 all
+python3-fastapi 0.110.0-1 all
+python3-filelock 3.16.1-1 all
+python3-flasgger 0.9.7.2~dev2+dfsg-3 all
+python3-flask 3.0.3-1 all
+python3-flask-restful 0.3.10-3 all
+python3-flask-socketio 5.3.6-2 all
+python3-fonttools 4.54.1-4+b1 arm64
+python3-fs 2.4.16-4 all
+python3-gevent 24.2.1-1+b2 arm64
+python3-gi 3.50.0-3+b1 arm64
+python3-gi-cairo 3.50.0-3+b1 arm64
+python3-greenlet 3.1.0-1+b1 arm64
+python3-h11 0.14.0-1 all
+python3-h2 4.1.0-4 all
+python3-hamcrest 2.1.0-1 all
+python3-hatch-vcs 0.4.0-1 all
+python3-hatchling 1.25.0-1 all
+python3-hpack 4.0.0-2 all
+python3-html5lib 1.2-1 all
+python3-httpcore 1.0.4-1 all
+python3-httpx 0.27.0-1 all
+python3-humanize 4.11.0-1 all
+python3-hyperframe 6.0.0-1 all
+python3-hyperlink 21.0.0-6 all
+python3-idna 3.8-2 all
+python3-impacket 0.12.0-2 all
+python3-incremental 24.7.2-2 all
+python3-inflect 7.3.1-2 all
+python3-invoke 2.2.0-2 all
+python3-ipython 8.29.0-1 all
+python3-itsdangerous 2.2.0-1 all
+python3-jaraco.context 6.0.0-1 all
+python3-jaraco.functools 4.1.0-1 all
+python3-jedi 0.19.1+ds1-1 all
+python3-jinja2 3.1.3-1 all
+python3-jmespath 1.0.1-1 all
+python3-jose 3.3.0+dfsg-5 all
+python3-jq 1.8.0+dfsg-1+b1 arm64
+python3-json-pointer 2.4-2 all
+python3-jsonschema 4.19.2-5 all
+python3-jsonschema-specifications 2023.12.1-2 all
+python3-jwcrypto 1.5.6-1 all
+python3-kaitaistruct 0.10-1 all
+python3-kismetcapturebtgeiger 2023.07.R1-0kali6 all
+python3-kismetcapturefreaklabszigbee 2023.07.R1-0kali6 all
+python3-kismetcapturertl433 2023.07.R1-0kali4 all
+python3-kismetcapturertladsb 2023.07.R1-0kali4 all
+python3-kismetcapturertlamr 2023.07.R1-0kali4 all
+python3-kismetexternal 2019.05.01+git20191219-0kali2 all
+python3-kiwisolver 1.4.7-2+b1 arm64
+python3-ldap3 2.9.1-2 all
+python3-ldapdomaindump 0.9.4-2 all
+python3-lib2to3 3.12.3-3.1 all
+python3-looseversion 1.3.0-3 all
+python3-louis 3.31.0-2 all
+python3-lxml:arm64 5.3.0-1+b1 arm64
+python3-lz4 4.0.2+dfsg-1+b6 arm64
+python3-m2crypto 0.42.0-2+b1 arm64
+python3-macholib 1.16.3+ds-1 all
+python3-magic 2:0.4.27-3 all
+python3-mako 1.3.6-1 all
+python3-markdown-it 3.0.0-2 all
+python3-markupsafe 2.1.5-1+b3 arm64
+python3-matplotlib 3.8.3-3+b1 arm64
+python3-matplotlib-inline 0.1.6-2 all
+python3-mdurl 0.1.2-1 all
+python3-mechanize 1:0.4.10+ds-1 all
+python3-minimal 3.12.6-1 arm64
+python3-mistune 3.0.2-2 all
+python3-mitmproxy-rs 0.9.2-0kali2 arm64
+python3-mitmproxy-wireguard 0.1.23-0kali1 arm64
+python3-more-itertools 10.5.0-1 all
+python3-mpmath 1.3.0-1 all
+python3-msgpack 1.0.3-3+b4 arm64
+python3-multipart 0.0.9-1 all
+python3-nacl 1.5.0-6 arm64
+python3-nassl 5.2.0-0kali3 arm64
+python3-netaddr 0.10.1-1 all
+python3-netifaces:arm64 0.11.0-2+b5 arm64
+python3-newt:arm64 0.52.24-2 arm64
+python3-ntlm-auth 1.5.0-1 all
+python3-ntp 1.2.3+dfsg1-3+b1 arm64
+python3-numpy 1:1.26.4+ds-10 arm64
+python3-olefile 0.46-3 all
+python3-opengl 3.1.7+dfsg-1 all
+python3-openssl 24.2.1-1 all
+python3-outcome 1.2.0-1.1 all
+python3-packaging 24.1-1 all
+python3-paramiko 3.4.1-2 all
+python3-parso 0.8.3-1 all
+python3-passlib 1.7.4-4 all
+python3-pathspec 0.12.1-1 all
+python3-pcapy 0.11.5-4+b1 arm64
+python3-pefile 2024.8.26-2 all
+python3-pexpect 4.9-3 all
+python3-pil:arm64 10.4.0-1+b1 arm64
+python3-pil.imagetk:arm64 10.4.0-1+b1 arm64
+python3-pip 24.3.1+dfsg-1 all
+python3-pip-whl 24.3.1+dfsg-1 all
+python3-pkg-resources 74.1.2-2 all
+python3-pluggy 1.5.0-1 all
+python3-pluginbase 1.0.1-1 all
+python3-ply 3.11-7 all
+python3-png 0.20231004.0-4 all
+python3-prompt-toolkit 3.0.48-1 all
+python3-protobuf 3.21.12-8+b1 arm64
+python3-ptyprocess 0.7.0-6 all
+python3-publicsuffix2 2.20191221-3 all
+python3-pure-eval 0.2.3-1 all
+python3-pyasn1 0.6.0-1 all
+python3-pyasn1-modules 0.4.1-1 all
+python3-pyasyncore 1.0.2-2kali1 all
+python3-pycparser 2.22-2 all
+python3-pycryptodome 3.20.0+dfsg-3 arm64
+python3-pydantic 2.9.2-2 arm64
+python3-pydantic-core 2.23.4-2+b2 arm64
+python3-pydispatch 2.0.5-5 all
+python3-pygame 2.6.0-2+b1 arm64
+python3-pygments 2.18.0+dfsg-1 all
+python3-pyinotify 0.9.6-4 all
+python3-pyinstaller 6.11.0-0kali1 all
+python3-pyinstaller-hooks-contrib 2024.9-0kali1 all
+python3-pylsqpack 0.3.18-1+b1 arm64
+python3-pymssql 2.3.1-1+b1 arm64
+python3-pymysql 1.1.1-1 all
+python3-pyparsing 3.1.2-1 all
+python3-pyperclip 1.8.2-2 all
+python3-pyqt5 5.15.11+dfsg-1+b2 arm64
+python3-pyqt5.qtopengl 5.15.11+dfsg-1+b2 arm64
+python3-pyqt5.sip 12.15.0-1+b2 arm64
+python3-pyqt6 6.7.0-1 arm64
+python3-pyqt6.sip 13.8.0-1+b2 arm64
+python3-pyqtgraph 0.13.7-5 all
+python3-pyvnc 0.1-0kali4 all
+python3-qrcode 7.4.2-5 all
+python3-ratelimit 2.2.1-2 all
+python3-redis 4.3.4-3 all
+python3-referencing 0.35.1-1 all
+python3-requests 2.32.3+dfsg-1 all
+python3-rfc3987 1.3.8-3 all
+python3-rich 13.7.1-1 all
+python3-roman 4.2-1 all
+python3-rpds-py 0.21.0-2 arm64
+python3-rq 1.16.2-1 all
+python3-rsa 4.9-2 all
+python3-ruamel.yaml 0.18.6+ds-3 all
+python3-ruamel.yaml.clib:arm64 0.2.8+ds-2+b1 arm64
+python3-s3transfer 0.10.4-1 all
+python3-scapy 2.6.1+dfsg-1 all
+python3-scipy 1.13.1-6 arm64
+python3-secretsocks 0.9.1+git20221130.43c0bed-0kali2 all
+python3-selenium 4.24.4+dfsg-1 all
+python3-serial 3.5-2 all
+python3-service-identity 24.1.0-1 all
+python3-setuptools 74.1.2-2 all
+python3-setuptools-scm 8.1.0-1 all
+python3-setuptools-whl 74.1.2-2 all
+python3-simplejson 3.19.3-1+b1 arm64
+python3-six 1.16.0-7 all
+python3-smbc 1.0.25.1-1+b4 arm64
+python3-sniffio 1.3.1-1 all
+python3-socketio 5.11.2-1 all
+python3-socks 1.7.1+dfsg-1 all
+python3-sortedcontainers 2.4.0-2 all
+python3-soupsieve 2.6-1 all
+python3-speechd 0.11.5-5.1 all
+python3-sqlalchemy 2.0.32+ds1-1 all
+python3-sqlalchemy-ext:arm64 2.0.32+ds1-1+b1 arm64
+python3-sqlalchemy-utc 0.14.0-3 all
+python3-stack-data 0.6.3-1 all
+python3-starlette 0.41.2-1 all
+python3-stone 3.3.7-1 all
+python3-sympy 1.13.3-1 all
+python3-terminaltables 3.1.10-5 all
+python3-tk:arm64 3.12.3-3.1 arm64
+python3-tls-parser 1.2.2-0kali1 all
+python3-tornado 6.4.1-3 arm64
+python3-traitlets 5.14.3+really5.14.3-1 all
+python3-trio 0.27.0-1 all
+python3-trio-websocket 0.11.1-1 all
+python3-trove-classifiers 2024.9.12-1 all
+python3-twisted 24.7.0-3 all
+python3-typeguard 4.4.1-1 all
+python3-typeshed 0.0~git20231111.6764465-3 all
+python3-typing-extensions 4.12.2-2 all
+python3-tz 2024.1-2 all
+python3-ufolib2 0.16.1+dfsg1-1 all
+python3-uritemplate 4.1.1-3 all
+python3-urllib3 2.0.7-2 all
+python3-urwid 2.6.15-1 arm64
+python3-uvicorn 0.32.0-1 all
+python3-uvloop 0.21.0+ds1-1+b1 arm64
+python3-wcwidth 0.2.13+dfsg1-1 all
+python3-webcolors 1.13-1 all
+python3-webencodings 0.5.1-5 all
+python3-websocket 1.8.0-2 all
+python3-websockets 10.4-1 all
+python3-websockify 0.12.0+dfsg1-3 arm64
+python3-werkzeug 3.0.4-1 all
+python3-wheel 0.45.0-1 all
+python3-wrapt 1.15.0-3+b1 arm64
+python3-wsproto 1.2.0-1 all
+python3-xdg 0.28-2 all
+python3-xlrd 2.0.1-2 all
+python3-xlsxwriter 3.1.9-1 all
+python3-xlutils 2.0.0-0kali3 all
+python3-xlwt 1.3.0-6 all
+python3-yaml 6.0.2-1+b1 arm64
+python3-zipp 3.21.0-1 all
+python3-zlib-wrapper 0.1.3-0kali3 all
+python3-zombie-imp 0.0.2-2 all
+python3-zope.event 5.0-0.1 all
+python3-zope.interface 7.1.1-1+b1 arm64
+python3-zstandard 0.23.0-2+b2 arm64
+python3.11 3.11.9-1 arm64
+python3.11-dev 3.11.9-1 arm64
+python3.11-minimal 3.11.9-1 arm64
+python3.11-venv 3.11.9-1 arm64
+python3.12 3.12.9-1 arm64
+python3.12-dev 3.12.9-1 arm64
+python3.12-minimal 3.12.9-1 arm64
+python3.12-venv 3.12.9-1 arm64
+qt5-gtk-platformtheme:arm64 5.15.15+dfsg-2 arm64
+qt5ct 1.8-2+b1 arm64
+qt6-base-dev-tools 6.4.2+dfsg-21.1+b1 arm64
+qt6-gtk-platformtheme:arm64 6.4.2+dfsg-21.1+b1 arm64
+qt6-qpa-plugins:arm64 6.4.2+dfsg-21.1+b1 arm64
+qt6-translations-l10n 6.7.2-2 all
+qt6-wayland:arm64 6.4.2-5+b2 arm64
+qt6ct 0.9-2+b1 arm64
+qtbase5-dev-tools 5.15.15+dfsg-2 arm64
+qtchooser 66-2+b1 arm64
+qterminal 1.4.0-2 arm64
+qterminal-l10n 1.4.0-2 all
+qtermwidget5-data 1.4.0-2 all
+qttranslations5-l10n 5.15.15-2 all
+qtwayland5:arm64 5.15.15-2 arm64
+racc 1.6.2-1 all
+rake 13.2.1-1 all
+readline-common 8.2-5 all
+reaver 1.6.6-2+b2 arm64
+responder 3.1.5.0-0kali1 all
+rfkill 2.40.2-9 arm64
+ristretto 0.13.2-1+b1 arm64
+rpcsvc-proto 1.4.3-1+b1 arm64
+rsync 3.3.0-1+b1 arm64
+rtkit 0.13-5.1+b1 arm64
+ruby 1:3.1 arm64
+ruby-activemodel 2:6.1.7.3+dfsg-4 all
+ruby-activerecord 2:6.1.7.3+dfsg-4 all
+ruby-activesupport 2:6.1.7.3+dfsg-4 all
+ruby-addressable 2.8.5-1 all
+ruby-ansi 1.5.0-2 all
+ruby-async 1.30.3-1 all
+ruby-async-dns 1.2.5-0kali1 all
+ruby-async-io 1.34.1-1 all
+ruby-atomic 1.1.16-3+b5 arm64
+ruby-buftok 0.2.0-2 all
+ruby-bundler 2.4.20-1 all
+ruby-cms-scanner 0.14.3-0kali1 all
+ruby-concurrent 1.2.3-4 all
+ruby-console 1.15.3-1 all
+ruby-daemons 1.4.1-2 all
+ruby-dev:arm64 1:3.1+nmu1 arm64
+ruby-domain-name 0.6.20240107-1 all
+ruby-em-websocket 0.5.1-2 all
+ruby-equalizer 0.0.11-2 all
+ruby-erubis 2.7.0-4 all
+ruby-espeak 1.1.0-1 all
+ruby-ethon 0.16.0-2 all
+ruby-eventmachine:arm64 1.3~pre20220315-df4ab006-3+b1 arm64
+ruby-execjs 2.8.1-2 all
+ruby-ffi:arm64 1.16.3+dfsg-1 arm64
+ruby-ffi-compiler 1.0.1-4 all
+ruby-fiber-local 1.0.0-2 all
+ruby-get-process-mem 0.2.5-1 all
+ruby-hashie 5.0.0-3 all
+ruby-hashie-forbidden-attributes 0.1.1-1.1 all
+ruby-hitimes:arm64 1.3.1-1+b3 arm64
+ruby-http 4.4.1-6 all
+ruby-http-accept 2.2.1-1 all
+ruby-http-cookie 1.0.5-1 all
+ruby-http-form-data 2.3.0-1 all
+ruby-http-parser 1.2.3-1+b1 arm64
+ruby-http-parser.rb 0.6.0-6+b4 arm64
+ruby-i18n 1.14.5-1 all
+ruby-ipaddress 0.8.3-5 all
+ruby-maxmind-db 1.1.1-0kali1 all
+ruby-memoizable 0.4.2-3 all
+ruby-mime-types 3.5.2-1 all
+ruby-mime-types-data 3.2024.0206-1 all
+ruby-mini-portile2 2.8.7-1 all
+ruby-mojo-magick 0.6.7-1 all
+ruby-msfrpc-client 1.1.2-2 all
+ruby-msgpack:arm64 1.4.2-2+b4 arm64
+ruby-multi-json 1.14.1-2 all
+ruby-multipart-post 2.0.0-2 all
+ruby-mustermann 3.0.0-2 all
+ruby-naught 1.1.0-1 all
+ruby-net-telnet 0.2.0-1 all
+ruby-netrc 0.11.0-4 all
+ruby-nio4r:arm64 2.5.8-4 arm64
+ruby-nokogiri 1.16.0+dfsg-2 arm64
+ruby-oj:arm64 3.16.3-1 arm64
+ruby-opt-parse-validator 1.10.0-0kali1 all
+ruby-otr-activerecord 2.1.1-0.1 all
+ruby-parseconfig 1.0.8-1 all
+ruby-pkg-config 1.5.6-1 all
+ruby-progressbar 1.11.0-1 all
+ruby-public-suffix 4.0.6+ds-2 all
+ruby-qr4r 0.6.2-1 all
+ruby-rack 2.2.7-1.1 all
+ruby-rack-protection 3.2.0-1 all
+ruby-rchardet 1.8.0-1 all
+ruby-rest-client 2.1.0-3 all
+ruby-rqrcode-core 1.2.0-2 all
+ruby-ruby2-keywords 0.0.5-1 all
+ruby-rubygems 3.4.20-1 all
+ruby-rushover 0.3.0-2 all
+ruby-sdbm:arm64 1.0.0-5+b2 arm64
+ruby-simple-oauth 0.3.1-3 all
+ruby-sinatra 3.2.0-1 all
+ruby-slack-notifier 1.5.1-3 all
+ruby-sqlite3 1.4.2-4+b3 arm64
+ruby-sync 0.5.0-2 all
+ruby-term-ansicolor 1.3.0-1.1 all
+ruby-terser 1.1.12+dfsg-2 all
+ruby-thread-safe 0.3.6-1 all
+ruby-tilt 2.0.11-2 all
+ruby-timers 4.1.1-2.1 all
+ruby-tins 1.32.1-1 all
+ruby-twitter 7.0.0-2 all
+ruby-typhoeus 1.4.0-4 all
+ruby-tzinfo 2.0.6-1 all
+ruby-unf 0.1.4-2.1 all
+ruby-unf-ext 0.0.7.7-1+b4 arm64
+ruby-webrick 1.8.1-1 all
+ruby-xmlrpc 0.3.3-2 all
+ruby-yajl 1.4.3-1+b2 arm64
+ruby-zeitwerk 2.6.8-1 all
+ruby-zip 2.3.2-1 all
+ruby3.1 3.1.2-8 arm64
+ruby3.1-dev:arm64 3.1.2-8 arm64
+ruby3.1-doc 3.1.2-8.4 all
+rubygems-integration 1.18 all
+runit-helper 2.16.4 all
+rust-llvm 1.82.0+dfsg1-2 arm64
+rustc 1.82.0+dfsg1-2 arm64
+samba-libs:arm64 2:4.21.1+dfsg-2kali1 arm64
+sane-airscan 0.99.29-1.1 arm64
+sane-utils 1.3.0-1+b1 arm64
+sed 4.9-2+b1 arm64
+selinux-utils 3.7-3+b1 arm64
+sensible-utils 0.0.24 all
+sgml-base 1.31 all
+sgml-data 2.0.11+nmu1 all
+shared-mime-info 2.4-5+b1 arm64
+shell-don 1.0 all
+sleuthkit 4.12.1+dfsg-0kali6 arm64
+snmp 5.9.4+dfsg-1.1+b2 arm64
+socat 1.8.0.1-2 arm64
+sound-icons 0.1-8 all
+sound-theme-freedesktop 0.8-3 all
+sox 14.4.2+git20190427-5+b1 arm64
+speech-dispatcher 0.11.5-5.1 arm64
+speech-dispatcher-audio-plugins:arm64 0.11.5-5.1 arm64
+speech-dispatcher-espeak-ng 0.11.5-5.1 arm64
+sphinx-rtd-theme-common 3.0.1+dfsg-1 all
+sqlite3 3.46.1-1 arm64
+sqlmap 1.8.11-1 all
+squashfs-tools 1:4.6.1-1+b1 arm64
+ssl-cert 1.1.3 all
+sslscan 2.1.5-1 arm64
+sslsplit 0.5.5-2.1+b2 arm64
+sslyze 6.0.0-0kali4 all
+starkiller 2.8.2+ds-0kali1 all
+strongswan 5.9.13-2 all
+strongswan-charon 5.9.13-2+b2 arm64
+strongswan-libcharon 5.9.13-2+b2 arm64
+strongswan-starter 5.9.13-2+b2 arm64
+subfinder 2.6.0-0kali1 arm64
+subjack 2.1-0kali2 arm64
+sublist3r 1.1-4 all
+sudo 1.9.16-2 arm64
+sysstat 12.7.5-2+b1 arm64
+system-config-printer 1.5.18-3 all
+system-config-printer-common 1.5.18-3 all
+system-config-printer-udev 1.5.18-3+b1 arm64
+system-tools-backends 2.10.2-3.1+b2 arm64
+systemd 256.6-1 arm64
+systemd-cryptsetup 256.6-1 arm64
+systemd-dev 256.6-1 all
+systemd-sysv 256.6-1 arm64
+sysvinit-utils 3.11-1 arm64
+tango-icon-theme 0.8.90-11 all
+tar 1.35+dfsg-3+b1 arm64
+tasksel 3.77+kali2 all
+tasksel-data 3.77+kali2 all
+tcpdump 4.99.5-1 arm64
+tcptrace 6.6.7-6+b2 arm64
+terraform 1.6.3-0kali1 arm64
+testng 6.9.12-4 all
+thin 1.8.1-2 arm64
+thunar 4.18.11-1 arm64
+thunar-archive-plugin:arm64 0.5.2-1+b3 arm64
+thunar-data 4.18.11-1 all
+thunar-gtkhash 1.5-2+b1 arm64
+thunar-volman 4.18.0-1+b2 arm64
+tigervnc-common 1.13.1+dfsg-3+b1 arm64
+tigervnc-standalone-server 1.13.1+dfsg-3+b1 arm64
+tigervnc-tools 1.13.1+dfsg-3+b1 arm64
+timgm6mb-soundfont 1.3-5 all
+tinyproxy 1.11.2-1 all
+tinyproxy-bin 1.11.2-1+b1 arm64
+tk8.6-blt2.5 2.5.3+dfsg-7+b1 arm64
+tmux 3.5a-2 arm64
+tnftp 20230507-2+b2 arm64
+tor 0.4.8.13-2 arm64
+tor-geoipdb 0.4.8.13-2 all
+torsocks 2.4.0-2+b1 arm64
+tpm-udev 0.6+nmu1 all
+tree 2.1.3-1+b1 arm64
+tshark 4.2.5-1 arm64
+tumbler 4.18.2-1 arm64
+tumbler-common 4.18.2-1 all
+tzdata 2024a-4 all
+tzdata-legacy 2024a-4 all
+ucf 3.0043+nmu1 all
+udev 256.6-1 arm64
+udisks2 2.10.1-11 arm64
+unicode-data 15.1.0-1 all
+unzip 6.0-28+b1 arm64
+update-inetd 4.53 all
+upower 1.90.6-2 arm64
+upx-ucl 4.2.4-1 arm64
+usb-modeswitch 2.6.1-4+b1 arm64
+usb-modeswitch-data 20191128-7 all
+usb.ids 2024.07.04-1 all
+usbmuxd 1.1.1-5+b1 arm64
+usbutils 1:018-1 arm64
+usr-is-merged 39 all
+util-linux 2.40.2-9 arm64
+uuid-dev:arm64 2.40.2-9 arm64
+va-driver-all:arm64 2.22.0-1+b1 arm64
+vboot-kernel-utils 0~R106-15054.B-2+b2 arm64
+vboot-utils 0~R106-15054.B-2+b2 arm64
+vdpau-driver-all:arm64 1.5-3+b1 arm64
+vim 2:9.1.0861-1 arm64
+vim-common 2:9.1.0861-1 all
+vim-runtime 2:9.1.0861-1 all
+vim-tiny 2:9.1.0861-1 arm64
+vpnc 0.5.3+git20240226-2+b1 arm64
+vpnc-scripts 0.1~git20220510-1 all
+wafw00f 2.2.0-1 all
+wamerican 2020.12.07-3 all
+wget 1.24.5-2 arm64
+whatweb 0.5.5-1 all
+whiptail 0.52.24-3+b1 arm64
+whois 5.5.23+b1 arm64
+wifite 2.7.0-2 all
+wipe 0.24-9+b2 arm64
+wireless-regdb 2024.10.07-1 all
+wireless-tools 30~pre9-18+b1 arm64
+wireplumber 0.5.6-2 arm64
+wireshark 4.2.5-1 arm64
+wireshark-common 4.2.5-1 arm64
+wpasupplicant 2:2.10-22 arm64
+wpscan 3.8.27-0kali1 all
+wsdd 2:0.8-2 all
+x11-apps 7.7+11+b2 arm64
+x11-common 1:7.7+23.1 all
+x11-session-utils 7.7+6+b2 arm64
+x11-utils 7.7+7 arm64
+x11-xkb-utils 7.7+9 arm64
+x11-xserver-utils 7.7+10+b2 arm64
+x11proto-dev 2024.1-1 all
+xauth 1:1.1.2-1+b1 arm64
+xbitmaps 1.1.1-2.2 all
+xbrlapi 6.7-1+b1 arm64
+xcape 1.2-3+b1 arm64
+xcvt 0.1.2-1+b2 arm64
+xdg-dbus-proxy 0.1.6-1 arm64
+xdg-desktop-portal 1.18.4-1+b1 arm64
+xdg-desktop-portal-gtk 1.15.1-1+b2 arm64
+xdg-user-dirs 0.18-1+b1 arm64
+xdg-user-dirs-gtk 0.11-1+b2 arm64
+xdg-utils 1.1.3-4.1 all
+xdotool 1:3.20160805.1-5+b2 arm64
+xfce4-appfinder 4.18.0-1+b2 arm64
+xfce4-battery-plugin:arm64 1.1.5-1+b3 arm64
+xfce4-clipman 2:1.6.6-1+b1 arm64
+xfce4-clipman-plugin 2:1.6.6-1+b1 arm64
+xfce4-cpufreq-plugin:arm64 1.2.8-2+b3 arm64
+xfce4-cpugraph-plugin:arm64 1.2.10-1+b2 arm64
+xfce4-datetime-plugin:arm64 0.8.3-1+b3 arm64
+xfce4-diskperf-plugin:arm64 2.7.0-1+b3 arm64
+xfce4-fsguard-plugin:arm64 1.1.3-1+b3 arm64
+xfce4-genmon-plugin:arm64 4.1.1-1+b3 arm64
+xfce4-helpers 4.18.6-2 arm64
+xfce4-netload-plugin:arm64 1.4.1-1+b3 arm64
+xfce4-notifyd 0.9.6-1 arm64
+xfce4-panel 4.18.6-1 arm64
+xfce4-places-plugin:arm64 1.8.3-1+b3 arm64
+xfce4-power-manager 4.18.4-1 arm64
+xfce4-power-manager-data 4.18.4-1 all
+xfce4-power-manager-plugins 4.18.4-1 arm64
+xfce4-pulseaudio-plugin:arm64 0.4.8-1+b3 arm64
+xfce4-screenshooter 1.11.1-1 arm64
+xfce4-sensors-plugin 1.4.4-1+b2 arm64
+xfce4-session 4.18.4-1 arm64
+xfce4-settings 4.18.6-2 arm64
+xfce4-systemload-plugin:arm64 1.3.2-2+b3 arm64
+xfce4-taskmanager 1.5.7-1+b1 arm64
+xfce4-timer-plugin:arm64 1.7.2-1+b3 arm64
+xfce4-verve-plugin:arm64 2.0.3-1+b3 arm64
+xfce4-wavelan-plugin:arm64 0.6.3-1+b3 arm64
+xfce4-whiskermenu-plugin 2.8.3-1+b2 arm64
+xfce4-xkb-plugin:arm64 1:0.8.3-1+b3 arm64
+xfconf 4.18.3-2 arm64
+xfdesktop4 4.18.1-1+b2 arm64
+xfdesktop4-data 4.18.1-1 all
+xfonts-100dpi 1:1.0.5 all
+xfonts-75dpi 1:1.0.5 all
+xfonts-base 1:1.0.5+nmu1 all
+xfonts-encodings 1:1.0.4-2.2 all
+xfonts-scalable 1:1.0.3-1.3 all
+xfonts-utils 1:7.7+7 arm64
+xfwm4 4.18.0-1+b2 arm64
+xiccd 0.3.0-2+b2 arm64
+xinit 1.4.2-1+b1 arm64
+xkb-data 2.42-1 all
+xkbset 0.8-1+b1 arm64
+xml-core 0.19 all
+xorg 1:7.7+23.1 arm64
+xorg-docs-core 1:1.7.1-1.2 all
+xorg-sgml-doctools 1:1.11-1.1 all
+xplot-xplot.org 0.90.7.1-4+b1 arm64
+xserver-common 2:21.1.13-3~kali1 all
+xserver-xorg 1:7.7+23.1 arm64
+xserver-xorg-core 2:21.1.13-3~kali1 arm64
+xserver-xorg-input-all 1:7.7+23.1 arm64
+xserver-xorg-input-libinput 1.4.0-1+b1 arm64
+xserver-xorg-input-wacom 1.2.2-3 arm64
+xserver-xorg-legacy 2:21.1.13-3~kali1 arm64
+xserver-xorg-video-all 1:7.7+23.1 arm64
+xserver-xorg-video-amdgpu 23.0.0-1+b1 arm64
+xserver-xorg-video-ati 1:22.0.0-1+b1 arm64
+xserver-xorg-video-fbdev 1:0.5.0-2+b1 arm64
+xserver-xorg-video-nouveau 1:1.0.17-3+b1 arm64
+xserver-xorg-video-radeon 1:22.0.0-1+b1 arm64
+xserver-xorg-video-vesa 1:2.6.0-1 arm64
+xtrans-dev 1.4.0-1 all
+xxd 2:9.1.0861-1 arm64
+xz-utils 5.6.3-1+b1 arm64
+yelp 42.2-1+b3 arm64
+yelp-xsl 42.1-2 all
+zenity 4.0.2-1+b1 arm64
+zenity-common 4.0.2-1 all
+zip 3.0-14+b1 arm64
+zlib1g:arm64 1:1.3.dfsg+really1.3.1-1+b1 arm64
+zlib1g-dev:arm64 1:1.3.dfsg+really1.3.1-1+b1 arm64
+zsh 5.9-8+b2 arm64
+zsh-autosuggestions 0.7.0-1 all
+zsh-common 5.9-8 all
+zsh-syntax-highlighting 0.7.1-2 all
+zstd 1.5.6+dfsg-1+b1 arm64
+
+=== Pip Packages ===
+aiofiles==24.1.0
+aioquic==1.2.0
+altgraph==0.17.4
+aniso8601==9.0.1
+annotated-types==0.7.0
+anyio==4.6.2
+appdirs==1.4.4
+argcomplete==3.5.1
+arjun==2.2.7
+asgiref==3.8.1
+asn1crypto==1.5.1
+asttokens==2.4.1
+async-timeout==4.0.3
+attrs==23.2.0
+autocommand==2.2.2
+Automat==24.8.1
+awscli==2.17.3
+awscrt==1.0.0.dev0
+Babel==2.14.0
+backdoor-factory==0.0.0
+bcrypt==4.1.2
+beautifulsoup4==4.12.3
+bidict==0.23.1
+binwalk==2.4.3
+blinker==1.8.2
+bluepy==1.3.0
+boto3==1.36.0
+botocore==1.36.9
+Brlapi==0.8.6
+Brotli==1.1.0
+capstone==4.0.2
+catfish==4.16.4
+certifi==2024.8.30
+cffi==1.17.1
+chardet==5.2.0
+charset-normalizer==3.4.0
+click==8.1.7
+click-plugins==1.1.1
+colorama==0.4.6
+constantly==23.10.4
+contourpy==1.3.0
+cryptography==43.0.0
+cssselect==1.2.0
+cupshelpers==1.0
+cycler==0.12.1
+dbus-python==1.3.2
+decorator==5.1.1
+defusedxml==0.7.1
+Deprecated==1.2.15
+dicttoxml==1.7.16
+distro==1.9.0
+dnspython==2.6.1
+dnsrecon==1.2.0
+docopt==0.6.2
+docutils==0.21.2
+donut-shellcode==0.9.3
+ecdsa==0.19.0
+email_validator==2.2.0
+executing==2.1.0
+fastapi==0.110.0
+filelock==3.16.1
+flasgger==0.9.7.2.dev2
+Flask==3.0.3
+Flask-RESTful==0.3.10
+Flask-SocketIO==5.3.6
+fonttools==4.54.1
+fs==2.4.16
+gevent==24.2.1
+greenlet==3.1.0
+h11==0.14.0
+h2==4.1.0
+hatch-vcs==0.4.0
+hatchling==1.25.0
+hpack==4.0.0
+html5lib-modern==1.2
+httpcore==1.0.4
+httpx==0.27.0
+humanize==4.11.0
+hyperframe==6.0.0
+hyperlink==21.0.0
+idna==3.8
+impacket==0.12.0
+incremental==24.7.2
+inflect==7.3.1
+invoke==2.2.0
+ipython==8.29.0
+itsdangerous==2.2.0
+jaraco.context==6.0.0
+jaraco.functools==4.1.0
+jedi==0.19.1
+Jinja2==3.1.3
+jmespath==1.0.1
+jq==1.8.0
+jsonpointer==2.4
+jsonschema==4.19.2
+jsonschema-specifications==2023.12.1
+jwcrypto==1.5.6
+kaitaistruct==0.10
+kali-tweaks==2023.3.2
+KismetCaptureBtGeiger==2021.7.1
+KismetCaptureFreaklabsZigbee==2018.7.0
+KismetCaptureRtl433==2020.10.1
+KismetCaptureRtladsb==2020.10.1
+KismetCaptureRtlamr==2020.10.1
+kismetexternal==2019.12.1
+kiwisolver==1.4.7
+ldap3==2.9.1
+ldapdomaindump==0.9.4
+lightdm-gtk-greeter-settings==1.2.3
+looseversion==1.3.0
+louis==3.31.0
+lxml==5.3.0
+lz4==4.0.2+dfsg
+M2Crypto==0.42.0
+macholib==1.16.3
+Mako==1.3.6.dev0
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlib==3.8.3
+matplotlib-inline==0.1.6
+mdurl==0.1.2
+mechanize==0.4.10
+mistune==3.0.2
+mitm6==0.3.0
+mitmproxy==11.0.0
+more-itertools==10.5.0
+mpmath==1.3.0
+msgpack==1.0.3
+nassl==5.2.0
+netaddr==0.10.1
+netifaces==0.11.0
+ntlm-auth==1.5.0
+ntpsec==1.2.3
+numpy==1.26.4
+olefile==0.46
+onboard==1.4.1
+outcome==1.2.0
+packaging==24.1
+paramiko==3.4.1
+parso==0.8.3
+passlib==1.7.4
+pathspec==0.12.1
+pcapy==0.11.5.dev0
+pefile==2024.8.26
+pexpect==4.9.0
+pillow==10.4.0
+pip==24.3.1
+pluggy==1.5.0
+pluginbase==1.0.1
+ply==3.11
+prompt_toolkit==3.0.48
+protobuf==4.21.12
+ptyprocess==0.7.0
+publicsuffix2==2.20191221
+pure_eval==0.2.3
+pyasn1==0.6.0
+pyasn1_modules==0.4.1
+pyasyncore==1.0.2
+pycairo==1.26.1
+pycparser==2.22
+pycryptodomex==3.20.0
+pycups==2.0.4
+pydantic==2.9.2
+pydantic_core==2.23.4
+PyDispatcher==2.0.5
+pygame==2.6.0
+Pygments==2.18.0
+PyGObject==3.50.0
+PyHamcrest==2.1.0
+pyinotify==0.9.6
+pyinstaller==6.11.0
+pyinstaller-hooks-contrib==2024.9
+pylsqpack==0.3.18
+pymssql==2.3.1
+PyMySQL==1.1.1
+PyNaCl==1.5.0
+PyOpenGL==3.1.7
+pyOpenSSL==24.2.1
+pyparsing==3.1.2
+pyperclip==1.8.2
+pypng==0.20231004.0
+PyQt5==5.15.11
+PyQt5_sip==12.15.0
+PyQt6==6.7.0
+PyQt6_sip==13.8.0
+pyqtgraph==0.13.7
+PySecretSOCKS==0.9.1
+pyserial==3.5
+pysmbc==1.0.25.1
+PySocks==1.7.1
+python-apt==2.9.0+b3
+python-dateutil==2.9.0
+python-dotenv==1.0.1
+python-engineio==4.9.0
+python-jose==3.3.0
+python-magic==0.4.27
+python-multipart==0.0.9
+python-socketio==5.11.2
+pytz==2024.1
+pyVNC==0.1
+pyxdg==0.28
+PyYAML==6.0.2
+qrcode==7.4.2
+ratelimit==2.2.1
+redis==4.3.4
+referencing==0.35.1
+requests==2.32.3
+rfc3987==1.3.8
+rich==13.7.1
+roman==4.2
+rpds-py==0.21.0
+rq==1.16.2
+rsa==4.9
+ruamel.yaml==0.18.6
+ruamel.yaml.clib==0.2.8
+s3transfer==0.10.4
+scapy==2.6.1
+scipy==1.13.1
+selenium==4.24.0
+service-identity==24.1.0
+setuptools==74.1.2
+setuptools-scm==8.1.0
+simplejson==3.19.3
+six==1.16.0
+sniffio==1.3.1
+sortedcontainers==2.4.0
+soupsieve==2.6
+SQLAlchemy==2.0.32
+SQLAlchemy-Utc==0.14.0
+sslyze==6.0.0
+stack-data==0.6.3
+starlette==0.41.2
+stone==3.3.7
+Sublist3r==1.0
+sympy==1.13.3
+terminaltables==3.1.10
+tls-parser==1.2.2
+tornado==6.4.1
+traitlets==5.14.3
+trio==0.27.0
+trio-websocket==0.11.1
+trove-classifiers==2024.9.12
+Twisted==24.7.0
+typeguard==4.4.1
+types-aiofiles==23.2
+types-aws-xray-sdk==2.12
+types-beautifulsoup4==4.12
+types-bleach==6.1
+types-boltons==23.0
+types-boto==2.49
+types-braintree==4.24
+types-cachetools==5.3
+types-caldav==1.3
+types-cffi==1.16
+types-chevron==0.14
+types-click-default-group==1.2
+types-click-spinner==0.1
+types-colorama==0.4
+types-commonmark==0.9
+types-console-menu==0.8
+types-croniter==2.0
+types-dateparser==1.1
+types-decorator==5.1
+types-Deprecated==1.2
+types-dockerfile-parse==2.0
+types-docopt==0.6
+types-docutils==0.20
+types-editdistance==0.6
+types-entrypoints==0.4
+types-ExifRead==3.0
+types-first==2.0
+types-flake8-2020==1.8
+types-flake8-bugbear==23.9.16
+types-flake8-builtins==2.2
+types-flake8-docstrings==1.7
+types-flake8-plugin-utils==1.3
+types-flake8-rst-docstrings==0.3
+types-flake8-simplify==0.21
+types-flake8-typing-imports==1.15
+types-Flask-Cors==4.0
+types-Flask-Migrate==4.0
+types-Flask-SocketIO==5.3
+types-fpdf2==2.7.4
+types-gdb==12.1
+types-google-cloud-ndb==2.2
+types-greenlet==3.0
+types-hdbcli==2.18
+types-html5lib==1.1
+types-httplib2==0.22
+types-humanfriendly==10.0
+types-ibm-db==3.2
+types-influxdb-client==1.38
+types-inifile==0.4
+types-JACK-Client==0.5
+types-jmespath==1.0
+types-jsonschema==4.19
+types-keyboard==0.13
+types-ldap3==2.9
+types-libsass==0.22
+types-Markdown==3.5
+types-mock==5.1
+types-mypy-extensions==1.0
+types-mysqlclient==2.2
+types-netaddr==0.9
+types-oauthlib==3.2
+types-openpyxl==3.1
+types-opentracing==2.4
+types-paho-mqtt==1.6
+types-paramiko==3.3
+types-parsimonious==0.10
+types-passlib==1.7
+types-passpy==1.0
+types-peewee==3.17
+types-pep8-naming==0.13
+types-pexpect==4.8
+types-pika-ts==1.3
+types-Pillow==10.1
+types-playsound==1.3
+types-pluggy==1.2.0
+types-polib==1.2
+types-portpicker==1.6
+types-protobuf==4.24
+types-psutil==5.9
+types-psycopg2==2.9
+types-pyasn1==0.5
+types-pyaudio==0.2
+types-PyAutoGUI==0.9
+types-pycocotools==2.0
+types-pycurl==7.45.2
+types-pyfarmhash==0.3
+types-pyflakes==3.1
+types-Pygments==2.16
+types-pyinstaller==6.1
+types-pyjks==20.0
+types-PyMySQL==1.1
+types-pynput==1.7
+types-pyOpenSSL==23.3
+types-pyRFC3339==1.1
+types-PyScreeze==0.1.29
+types-pyserial==3.5
+types-pysftp==0.2
+types-pytest-lazy-fixture==0.6
+types-python-crontab==3.0
+types-python-datemath==1.5
+types-python-dateutil==2.8
+types-python-gflags==3.1
+types-python-jose==3.3
+types-python-nmap==0.7
+types-python-slugify==8.0
+types-python-xlib==0.33
+types-pytz==2023.3.post1
+types-pywin32==306
+types-pyxdg==0.28
+types-PyYAML==6.0
+types-qrcode==7.4
+types-redis==4.6.0
+types-regex==2023.10.3
+types-requests==2.31
+types-requests-oauthlib==1.3
+types-retry==0.9
+types-s2clientprotocol==5
+types-seaborn==0.13
+types-Send2Trash==1.8
+types-setuptools==68.2
+types-simplejson==3.19
+types-singledispatch==4.1
+types-six==1.16
+types-slumber==0.7
+types-stdlib-list==0.8
+types-stripe==3.5
+types-tabulate==0.9
+types-tensorflow==2.12
+types-toml==0.10
+types-toposort==1.10
+types-tqdm==4.66
+types-translationstring==1.4
+types-tree-sitter==0.20.1
+types-tree-sitter-languages==1.8
+types-ttkthemes==3.2
+types-tzlocal==5.1
+types-ujson==5.8
+types-untangle==1.2
+types-usersettings==1.1
+types-uWSGI==2.0
+types-vobject==0.9
+types-waitress==2.1
+types-WebOb==1.8
+types-whatthepatch==1.0
+types-workalendar==17.0
+types-WTForms==3.1
+types-xmltodict==0.13
+types-zstd==1.5
+types-zxcvbn==4.4
+typing_extensions==4.12.2
+ufoLib2==0.16.1
+uritemplate==4.1.1
+urllib3==2.0.7
+urwid==2.6.15
+uvicorn==0.32.0
+uvloop==0.21.0
+wafw00f==2.2.0
+wcwidth==0.2.13
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.8.0
+websockets==10.4
+websockify==0.12.0
+Werkzeug==3.0.4
+wheel==0.45.0
+wifite==2.7.0
+wrapt==1.15.0
+wsproto==1.2.0
+xdg==5
+xlrd==2.0.1
+XlsxWriter==3.1.9
+xlutils==2.0.0
+xlwt==1.3.0
+zipp==3.21.0
+zlib-wrapper==0.1.3
+zombie-imp==0.0.2
+zope.event==5.0
+zope.interface==7.1.1
+zstandard==0.23.0
+
+=== Pipx Packages ===
+
+=== Cargo Packages ===
+
+=== Snap Packages ===
+
+=== Flatpak Packages ===
