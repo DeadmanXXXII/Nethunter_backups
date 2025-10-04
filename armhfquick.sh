@@ -12,7 +12,7 @@ apt install -y \
   nmap \
   msfvenum \
   dnsmasq \
-  ettercap-text-only \
+  ettercap \
   sqlmap \
   metasploit-framework \
   john \
@@ -33,6 +33,9 @@ apt install -y \
   vpnc \
   ghostscript \
   beef-xss \
+  sublist3r \
+  dnsrecon \
+  
   crackmapexec || true
 
 # Development & Python helpers
@@ -55,24 +58,14 @@ if ! command -v trufflehog >/dev/null 2>&1; then
   pipx install trufflehog || python3 -m pip install --user trufflehog
 fi
 
-# sublist3r (pip)
-if ! command -v sublist3r >/dev/null 2>&1; then
-  python3 -m pip install --user sublist3r || (cd /opt && git clone https://github.com/aboul3la/Sublist3r.git || true)
-fi
-
-# hydra
-if ! command -v hydra >/dev/null 2>&1; then
-  apt install -y hydra || python3 -m pip install --user hydra
-fi
-
-# dnsrecon (kali package or pip)
-if ! command -v dnsrecon >/dev/null 2>&1; then
-  apt install -y dnsrecon || python3 -m pip install --user dnsrecon
-fi
-
 # slither-analyzer (may require solidity/clang; may fail on armhf)
 if ! command -v slither >/dev/null 2>&1; then
   python3 -m pip install --user slither-analyzer || echo "slither install failed: consider running on x86/arm64 or in Docker"
+fi
+
+# impacket (kali package or pip)
+if ! command -v impacket >/dev/null 2>&1; then
+  apt install -y impacket || python3 -m pip install --user impacket
 fi
 
 echo "=== Permissions and PATH tweaks ==="
